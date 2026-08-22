@@ -29,5 +29,5 @@ jobs:
           git config user.name "Public Glass Bot"
           git config user.email "bot@publicglass.net"
           git add src/_data/
-          git diff --staged --quiet || git commit -m "chore: update government data [skip ci]"
+          git diff --staged --quiet || git commit -m "chore: update government data"
           git push
