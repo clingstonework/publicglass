@@ -1,1008 +1,1008 @@
 {
-  "fetched_at": "2026-08-22T07:29:25Z",
+  "fetched_at": "2026-08-22T09:44:54Z",
   "from_date": "2026-07-23",
   "to_date": "2026-08-22",
   "total": 100,
   "contracts": [
     {
-      "id": "prod-837b4da8f2964db0b368906c6a3e3725",
-      "title": "",
-      "agency": "",
-      "supplier": "Stamford Plaza Adelaide",
-      "value_aud": 0,
-      "published": "2026-08-21",
-      "start_date": "",
-      "end_date": ""
-    },
-    {
-      "id": "prod-16e718bc3c9d429cb6dee524003f1240",
-      "title": "",
-      "agency": "",
-      "supplier": "WILDE AND WOOLLARD",
-      "value_aud": 0,
-      "published": "2026-08-21",
-      "start_date": "",
-      "end_date": ""
-    },
-    {
-      "id": "prod-cdba581ff7f4436c8a8378e957d4d34a",
-      "title": "",
-      "agency": "",
-      "supplier": "LOOKAHEAD SEARCH PTY LTD",
-      "value_aud": 0,
-      "published": "2026-08-21",
-      "start_date": "",
-      "end_date": ""
-    },
-    {
-      "id": "prod-31e9e2bf54c9428a819a6d01ae667f46",
-      "title": "",
-      "agency": "",
-      "supplier": "Gillian Beaumont Recruitment Pty Lt",
-      "value_aud": 0,
-      "published": "2026-08-21",
-      "start_date": "",
-      "end_date": ""
-    },
-    {
-      "id": "prod-74bb44c0c4de4ebe97111b759ecce04d",
-      "title": "",
-      "agency": "",
-      "supplier": "KARLKA RECRUITING GROUP PTY LTD",
-      "value_aud": 0,
-      "published": "2026-08-21",
-      "start_date": "",
-      "end_date": ""
-    },
-    {
-      "id": "prod-55e2788a506a40edaa45e79d9cbf676f",
-      "title": "",
-      "agency": "",
-      "supplier": "PAXUS AUSTRALIA PTY LTD",
-      "value_aud": 0,
-      "published": "2026-08-21",
-      "start_date": "",
-      "end_date": ""
-    },
-    {
-      "id": "prod-606a6b9866cb4c229b60a5f2e64ca6ce",
-      "title": "",
-      "agency": "",
-      "supplier": "FIRST GRADE GROUP PTY LTD",
-      "value_aud": 0,
-      "published": "2026-08-21",
-      "start_date": "",
-      "end_date": ""
-    },
-    {
-      "id": "prod-be8b358229fd46fbb4e3ffc8f2357d1d",
-      "title": "",
-      "agency": "",
-      "supplier": "IGNITE LIMITED",
-      "value_aud": 0,
-      "published": "2026-08-21",
-      "start_date": "",
-      "end_date": ""
-    },
-    {
-      "id": "prod-c8563278940d4eb3964db973e54d60d7",
-      "title": "",
-      "agency": "",
-      "supplier": "Susan Cirillo",
-      "value_aud": 0,
-      "published": "2026-08-21",
-      "start_date": "",
-      "end_date": ""
-    },
-    {
-      "id": "prod-de5dee7e46d34232a065b47032f4445f",
-      "title": "",
-      "agency": "",
-      "supplier": "ABT ASSOCIATES PTY LTD",
-      "value_aud": 0,
-      "published": "2026-08-21",
-      "start_date": "",
-      "end_date": ""
-    },
-    {
-      "id": "prod-1c8a19b8539b4adb9698c611e8a37f9c",
-      "title": "",
-      "agency": "",
-      "supplier": "Clicks Recruit (Australia) Pty Ltd",
-      "value_aud": 0,
-      "published": "2026-08-21",
-      "start_date": "",
-      "end_date": ""
-    },
-    {
-      "id": "prod-760bcf30b0b846e18dc3874c7a29b0e9",
-      "title": "",
-      "agency": "",
-      "supplier": "Royal Residence Hotels and Resorts Ltd T.as Hyatt Regency Phnom Penh",
-      "value_aud": 0,
-      "published": "2026-08-21",
-      "start_date": "",
-      "end_date": ""
-    },
-    {
-      "id": "prod-34416cdfbece495fa6d21364f90209dd",
-      "title": "",
-      "agency": "",
-      "supplier": "MICRO SYSTEMATION PTY LTD",
-      "value_aud": 0,
-      "published": "2026-08-21",
-      "start_date": "",
-      "end_date": ""
-    },
-    {
-      "id": "prod-a98ed873291e4874bde48be4398fb07a",
-      "title": "",
-      "agency": "",
-      "supplier": "LUCY L MCGOVERN",
-      "value_aud": 0,
-      "published": "2026-08-21",
-      "start_date": "",
-      "end_date": ""
-    },
-    {
-      "id": "prod-377e66775f67446483388c75e6055663",
-      "title": "",
-      "agency": "",
-      "supplier": "PEOPLEBANK AUSTRALIA PTY LTD",
-      "value_aud": 0,
-      "published": "2026-08-21",
-      "start_date": "",
-      "end_date": ""
-    },
-    {
-      "id": "prod-a7ba5a61c1064639bf8a6cd8f05a44ed",
-      "title": "",
-      "agency": "",
-      "supplier": "PEOPLEBANK AUSTRALIA PTY LTD",
-      "value_aud": 0,
-      "published": "2026-08-21",
-      "start_date": "",
-      "end_date": ""
-    },
-    {
-      "id": "prod-fed33e98d7194d0e90f797202f0905b3",
-      "title": "",
-      "agency": "",
-      "supplier": "MELBOURNE BUSINESS SCHOOL LTD",
-      "value_aud": 0,
-      "published": "2026-08-21",
-      "start_date": "",
-      "end_date": ""
-    },
-    {
-      "id": "prod-68808d6eced448a6a99bab53ded754ed",
-      "title": "",
-      "agency": "",
-      "supplier": "Selena Bateman",
-      "value_aud": 0,
-      "published": "2026-08-21",
-      "start_date": "",
-      "end_date": ""
-    },
-    {
-      "id": "prod-4f69485705df4e4c9057c3da9c88d6d0",
-      "title": "",
-      "agency": "",
-      "supplier": "Felicity Maher",
-      "value_aud": 0,
-      "published": "2026-08-21",
-      "start_date": "",
-      "end_date": ""
-    },
-    {
-      "id": "prod-f302c322041e4d1299cfc35bef010351",
-      "title": "",
-      "agency": "",
-      "supplier": "Google Australia Pty Ltd",
-      "value_aud": 0,
-      "published": "2026-08-21",
-      "start_date": "",
-      "end_date": ""
-    },
-    {
-      "id": "prod-21ce311212874a6192dd4ef2365b2891",
-      "title": "",
-      "agency": "",
-      "supplier": "Anya Poukchanski",
-      "value_aud": 0,
-      "published": "2026-08-21",
-      "start_date": "",
-      "end_date": ""
-    },
-    {
-      "id": "prod-cca870507369494c9d098e9cdd116bbb",
-      "title": "",
-      "agency": "",
-      "supplier": "PAXUS AUSTRALIA PTY LTD",
-      "value_aud": 0,
-      "published": "2026-08-21",
-      "start_date": "",
-      "end_date": ""
-    },
-    {
-      "id": "prod-c9b825e5a3b24cd2ae038103ee7728cf",
-      "title": "",
-      "agency": "",
-      "supplier": "CATHERINE PIERCE",
-      "value_aud": 0,
-      "published": "2026-08-21",
-      "start_date": "",
-      "end_date": ""
-    },
-    {
-      "id": "prod-e27bad2ae37b43979e08d7b1bac7504e",
-      "title": "",
-      "agency": "",
-      "supplier": "Clicks Recruit (Australia) Pty Ltd",
-      "value_aud": 0,
-      "published": "2026-08-21",
-      "start_date": "",
-      "end_date": ""
-    },
-    {
-      "id": "prod-4835179576284d49923509ef77fe6feb",
-      "title": "",
-      "agency": "",
-      "supplier": "James O'Hara",
-      "value_aud": 0,
-      "published": "2026-08-21",
-      "start_date": "",
-      "end_date": ""
-    },
-    {
-      "id": "prod-91c8c24115f94c8a88da2b5a0b0a154e",
-      "title": "",
-      "agency": "",
-      "supplier": "CAROLYN J CONWAY B.A. LL.M",
-      "value_aud": 0,
-      "published": "2026-08-21",
-      "start_date": "",
-      "end_date": ""
-    },
-    {
-      "id": "prod-71df9d133594491d8489bc00f9488fd0",
-      "title": "",
-      "agency": "",
-      "supplier": "Michael J Wyles",
-      "value_aud": 0,
-      "published": "2026-08-21",
-      "start_date": "",
-      "end_date": ""
-    },
-    {
-      "id": "prod-19aee2c346a24601927ec168d29defef",
-      "title": "",
-      "agency": "",
-      "supplier": "Gavin Rees",
-      "value_aud": 0,
-      "published": "2026-08-21",
-      "start_date": "",
-      "end_date": ""
-    },
-    {
-      "id": "prod-c6d9f92fa5d040f1904f3e0b8e9679ba",
-      "title": "",
-      "agency": "",
-      "supplier": "Nicola Gollan",
-      "value_aud": 0,
-      "published": "2026-08-21",
-      "start_date": "",
-      "end_date": ""
-    },
-    {
-      "id": "prod-b14781cc55b9446eb750c136ee5f8c30",
-      "title": "",
-      "agency": "",
-      "supplier": "Alistair Haskett",
-      "value_aud": 0,
-      "published": "2026-08-21",
-      "start_date": "",
-      "end_date": ""
-    },
-    {
-      "id": "prod-59c4626ccba2496bbeced79cecf42783",
-      "title": "",
-      "agency": "",
-      "supplier": "TALENT INTERNATIONAL",
-      "value_aud": 0,
-      "published": "2026-08-21",
-      "start_date": "",
-      "end_date": ""
-    },
-    {
-      "id": "prod-642796711fb6441fbd027cee262238f3",
-      "title": "",
-      "agency": "",
-      "supplier": "CHRISSY MAVROUDIS",
-      "value_aud": 0,
-      "published": "2026-08-21",
-      "start_date": "",
-      "end_date": ""
-    },
-    {
-      "id": "prod-4282e1ddf13b4214b5f49a20616f01af",
-      "title": "",
-      "agency": "",
-      "supplier": "PAXUS AUSTRALIA PTY LTD",
-      "value_aud": 0,
-      "published": "2026-08-21",
-      "start_date": "",
-      "end_date": ""
-    },
-    {
-      "id": "prod-36f6d6d22abf416b84b2c621872390a2",
-      "title": "",
-      "agency": "",
-      "supplier": "Beatrice Paull",
-      "value_aud": 0,
-      "published": "2026-08-21",
-      "start_date": "",
-      "end_date": ""
-    },
-    {
-      "id": "prod-4baf3c68061646dabf71cea0a3248db5",
-      "title": "",
-      "agency": "",
-      "supplier": "FACE2FACE RECRUITMENT PTY LTD",
-      "value_aud": 0,
-      "published": "2026-08-21",
-      "start_date": "",
-      "end_date": ""
-    },
-    {
-      "id": "prod-7ac2e757f5824417a13f7275c4710abc",
-      "title": "",
-      "agency": "",
-      "supplier": "MTP Services Pty Ltd",
-      "value_aud": 0,
-      "published": "2026-08-21",
-      "start_date": "",
-      "end_date": ""
-    },
-    {
-      "id": "prod-437adc46dea34437bfacefd87cc010af",
-      "title": "",
-      "agency": "",
-      "supplier": "Comcare Australia Conference Logistics acting as agen",
-      "value_aud": 0,
-      "published": "2026-08-21",
-      "start_date": "",
-      "end_date": ""
-    },
-    {
-      "id": "prod-f9ef9b9260ac44ac836c83947073d099",
-      "title": "",
-      "agency": "",
-      "supplier": "STEPHEN SHARPLEY",
-      "value_aud": 0,
-      "published": "2026-08-21",
-      "start_date": "",
-      "end_date": ""
-    },
-    {
-      "id": "prod-6945cc013b6049b393190469f49d56c1",
-      "title": "",
-      "agency": "",
-      "supplier": "TALENT INTERNATIONAL",
-      "value_aud": 0,
-      "published": "2026-08-21",
-      "start_date": "",
-      "end_date": ""
-    },
-    {
-      "id": "prod-a63843e4e0e64aee912a03c81d5ad541",
-      "title": "",
-      "agency": "",
-      "supplier": "SHANTA MARTIN",
-      "value_aud": 0,
-      "published": "2026-08-21",
-      "start_date": "",
-      "end_date": ""
-    },
-    {
-      "id": "prod-229b74268b9647e0bb6f9cb28eed6457",
-      "title": "",
-      "agency": "",
-      "supplier": "DATA #3 LIMITED",
-      "value_aud": 0,
-      "published": "2026-08-21",
-      "start_date": "",
-      "end_date": ""
-    },
-    {
-      "id": "prod-123f491ebd0d4963b279fab4e57f6483",
-      "title": "",
-      "agency": "",
-      "supplier": "Bridie K Nolan",
-      "value_aud": 0,
-      "published": "2026-08-21",
-      "start_date": "",
-      "end_date": ""
-    },
-    {
-      "id": "prod-183310dcf1f543f99925fa2338e8f116",
-      "title": "",
-      "agency": "",
-      "supplier": "EMANATE TECHNOLOGY PTY LTD",
-      "value_aud": 0,
-      "published": "2026-08-21",
-      "start_date": "",
-      "end_date": ""
-    },
-    {
-      "id": "prod-81af55f07e264819a16393bdfdb3bb4d",
-      "title": "",
-      "agency": "",
-      "supplier": "GRAIN GROWERS LIMITED",
-      "value_aud": 0,
-      "published": "2026-08-21",
-      "start_date": "",
-      "end_date": ""
-    },
-    {
-      "id": "prod-3c34a24afbda49d2834a975b1c5b8c27",
-      "title": "",
-      "agency": "",
-      "supplier": "COMMONWEALTH SCIENTIFIC AND INDUSTRIAL",
-      "value_aud": 0,
-      "published": "2026-08-21",
-      "start_date": "",
-      "end_date": ""
-    },
-    {
-      "id": "prod-9dfcdf1770ef46dfb2eeb94aa1c0a1ad",
-      "title": "",
-      "agency": "",
-      "supplier": "CLAYTON UTZ",
-      "value_aud": 0,
-      "published": "2026-08-21",
-      "start_date": "",
-      "end_date": ""
-    },
-    {
-      "id": "prod-295bb417ff28429f9c96dc21e8694ebe",
-      "title": "",
-      "agency": "",
-      "supplier": "DIGITAL ADOPTION PARTNERS PTY LTD",
-      "value_aud": 0,
-      "published": "2026-08-21",
-      "start_date": "",
-      "end_date": ""
-    },
-    {
-      "id": "prod-1e27e1a1c86a4407a97df65a9d4a10ec",
-      "title": "",
-      "agency": "",
-      "supplier": "CHALFONT CONSULTING PTY LTD",
-      "value_aud": 0,
-      "published": "2026-08-21",
-      "start_date": "",
-      "end_date": ""
-    },
-    {
-      "id": "prod-535f7e05e75841918e26cdc1dd6b3bac",
-      "title": "",
-      "agency": "",
-      "supplier": "WHITSUNDAY COAST HELICOPTERS PTY LTD",
-      "value_aud": 0,
-      "published": "2026-08-21",
-      "start_date": "",
-      "end_date": ""
-    },
-    {
-      "id": "prod-77143cc1414a4852a55bdb2a50ec2fc4",
-      "title": "",
-      "agency": "",
-      "supplier": "Clearidium",
-      "value_aud": 0,
-      "published": "2026-08-21",
-      "start_date": "",
-      "end_date": ""
-    },
-    {
-      "id": "prod-e379fb8cc65c488c84b9a7635e0edbbd",
-      "title": "",
-      "agency": "",
-      "supplier": "International Doping Tests & Manage",
-      "value_aud": 0,
-      "published": "2026-08-21",
-      "start_date": "",
-      "end_date": ""
-    },
-    {
-      "id": "prod-cc8681eba5bc4d099058d61e0517a167",
-      "title": "",
-      "agency": "",
-      "supplier": "L.P Aiken & Others -Thomsons Thomson Geer",
-      "value_aud": 0,
-      "published": "2026-08-21",
-      "start_date": "",
-      "end_date": ""
-    },
-    {
-      "id": "prod-3f5a1df7a446432c9c92f5adcd87e135",
-      "title": "",
-      "agency": "",
-      "supplier": "Data # 3 LTD",
-      "value_aud": 0,
-      "published": "2026-08-21",
-      "start_date": "",
-      "end_date": ""
-    },
-    {
-      "id": "prod-09613f1841e547f286bdd293e4338ba0",
-      "title": "",
-      "agency": "",
-      "supplier": "Randstad Pty Limited",
-      "value_aud": 0,
-      "published": "2026-08-21",
-      "start_date": "",
-      "end_date": ""
-    },
-    {
-      "id": "prod-d1d604d394c14d02b63fe7c294c628c3",
-      "title": "",
-      "agency": "",
-      "supplier": "EVOLVE FM PTY LTD",
-      "value_aud": 0,
-      "published": "2026-08-21",
-      "start_date": "",
-      "end_date": ""
-    },
-    {
-      "id": "prod-1dc0ebd9f59d4b23995dc622669390a5",
-      "title": "",
-      "agency": "",
-      "supplier": "Alan Robertson",
-      "value_aud": 0,
-      "published": "2026-08-21",
-      "start_date": "",
-      "end_date": ""
-    },
-    {
-      "id": "prod-b4b9e929c7a24d6883611f9e536a58f5",
-      "title": "",
-      "agency": "",
-      "supplier": "Australian Children's Contact",
-      "value_aud": 0,
-      "published": "2026-08-21",
-      "start_date": "",
-      "end_date": ""
-    },
-    {
-      "id": "prod-2b30af1da2d649e28bbd5f4f9f856ad6",
-      "title": "",
-      "agency": "",
-      "supplier": "Institute for the Strategic Dialogue",
-      "value_aud": 0,
-      "published": "2026-08-21",
-      "start_date": "",
-      "end_date": ""
-    },
-    {
-      "id": "prod-ceb8f3e3fe0d447eb44ebc49b27fe2da",
-      "title": "",
-      "agency": "",
-      "supplier": "Moonshot CVE Ltd",
-      "value_aud": 0,
-      "published": "2026-08-21",
-      "start_date": "",
-      "end_date": ""
-    },
-    {
-      "id": "prod-7efb44d93ebc489d9987f80f1b696d69",
-      "title": "",
-      "agency": "",
-      "supplier": "Noble Design Studio Pty Ltd",
-      "value_aud": 0,
-      "published": "2026-08-21",
-      "start_date": "",
-      "end_date": ""
-    },
-    {
-      "id": "prod-a68104175f754bbe8403aa2796776041",
-      "title": "",
-      "agency": "",
-      "supplier": "Nous Group Pty Ltd",
-      "value_aud": 0,
-      "published": "2026-08-21",
-      "start_date": "",
-      "end_date": ""
-    },
-    {
-      "id": "prod-d96c0795e6564deeb567f69762bf82c6",
-      "title": "",
-      "agency": "",
-      "supplier": "CHMICAL ABSTRACTS SERVICE",
-      "value_aud": 0,
-      "published": "2026-08-21",
-      "start_date": "",
-      "end_date": ""
-    },
-    {
-      "id": "prod-b56eb6728b8045aeb0b3707aac3d56ff",
-      "title": "",
-      "agency": "",
-      "supplier": "First People Recruitment Solutions",
-      "value_aud": 0,
-      "published": "2026-08-21",
-      "start_date": "",
-      "end_date": ""
-    },
-    {
-      "id": "prod-c859162cba3b49a2b8fde597a4889d8c",
-      "title": "",
-      "agency": "",
-      "supplier": "Systems Planning and Analysis, Aust Pty Ltd",
-      "value_aud": 0,
-      "published": "2026-08-21",
-      "start_date": "",
-      "end_date": ""
-    },
-    {
-      "id": "prod-e9f6281b450a45f3bcc756081db3d583",
-      "title": "",
-      "agency": "",
-      "supplier": "DATA # 3 GROUP",
-      "value_aud": 0,
-      "published": "2026-08-21",
-      "start_date": "",
-      "end_date": ""
-    },
-    {
-      "id": "prod-2771b28964f24740a7cbfbcc2ed91504",
-      "title": "",
-      "agency": "",
-      "supplier": "O'CONNOR MARSDEN & ASSOCIATES PTY LTD",
-      "value_aud": 0,
-      "published": "2026-08-21",
-      "start_date": "",
-      "end_date": ""
-    },
-    {
-      "id": "prod-7907d62987ef4f76bdf22b2d0f361ea6",
-      "title": "",
-      "agency": "",
-      "supplier": "The Trustee for NC2 Hunter Unit Tru",
-      "value_aud": 0,
-      "published": "2026-08-21",
-      "start_date": "",
-      "end_date": ""
-    },
-    {
-      "id": "prod-de3b1ab055504e4899a6b1f8711697c2",
-      "title": "",
-      "agency": "",
-      "supplier": "Horizon One Recruitment Pty Ltd",
-      "value_aud": 0,
-      "published": "2026-08-21",
-      "start_date": "",
-      "end_date": ""
-    },
-    {
-      "id": "prod-f22241a2dcb24659965232a33ff0f021",
-      "title": "",
-      "agency": "",
-      "supplier": "University of Melbourne Statistical Consulting Centre",
-      "value_aud": 0,
-      "published": "2026-08-21",
-      "start_date": "",
-      "end_date": ""
-    },
-    {
-      "id": "prod-0c303e1a9f2149a8b91297d3dc0e5ea2",
-      "title": "",
-      "agency": "",
-      "supplier": "NATIONAL MAILING & MARKETING PTY. LIMITED.",
-      "value_aud": 0,
-      "published": "2026-08-21",
-      "start_date": "",
-      "end_date": ""
-    },
-    {
-      "id": "prod-f69d98ea168c4363816df9eb6386769f",
-      "title": "",
-      "agency": "",
-      "supplier": "Indigeco Pty Ltd",
-      "value_aud": 0,
-      "published": "2026-08-21",
-      "start_date": "",
-      "end_date": ""
-    },
-    {
-      "id": "prod-916918d87bc443648116897cc5feb037",
-      "title": "",
-      "agency": "",
-      "supplier": "Horizon One Recruitment Pty Ltd",
-      "value_aud": 0,
-      "published": "2026-08-21",
-      "start_date": "",
-      "end_date": ""
-    },
-    {
-      "id": "prod-c26d79d9e8334105af95c29e8534fa9f",
-      "title": "",
-      "agency": "",
-      "supplier": "Universal McCann Mediabrands Australia Pty Ltd",
-      "value_aud": 0,
-      "published": "2026-08-21",
-      "start_date": "",
-      "end_date": ""
-    },
-    {
-      "id": "prod-bb8d4dd3879d4be08abbf247ca333c15",
-      "title": "",
-      "agency": "",
-      "supplier": "Simon Philip Merrifield t/a  Indo-Pac Strategic Advisory Services",
-      "value_aud": 0,
-      "published": "2026-08-21",
-      "start_date": "",
-      "end_date": ""
-    },
-    {
-      "id": "prod-907ff398437b4a6b96c3a8e598578a63",
-      "title": "",
-      "agency": "",
-      "supplier": "Duro Consulting Pty Ltd",
-      "value_aud": 0,
-      "published": "2026-08-21",
-      "start_date": "",
-      "end_date": ""
-    },
-    {
-      "id": "prod-6b23a242c7254f62b6b4184a09278739",
-      "title": "",
-      "agency": "",
-      "supplier": "Garnett Solutions Pty Limited & Others (t/a Bellchambers Barrett)",
-      "value_aud": 0,
-      "published": "2026-08-21",
-      "start_date": "",
-      "end_date": ""
-    },
-    {
-      "id": "prod-86b291a651104aa8a479e4ed5c05095c",
-      "title": "",
-      "agency": "",
-      "supplier": "Amora Jamison Sydney",
-      "value_aud": 0,
-      "published": "2026-08-21",
-      "start_date": "",
-      "end_date": ""
-    },
-    {
-      "id": "prod-e43d3596636347fe917ef8d2402443cf",
-      "title": "",
-      "agency": "",
-      "supplier": "Comcover",
-      "value_aud": 0,
-      "published": "2026-08-21",
-      "start_date": "",
-      "end_date": ""
-    },
-    {
-      "id": "prod-0e2fcaa2f22942089ad37f8e313c4bbd",
-      "title": "",
-      "agency": "",
-      "supplier": "BDO SERVICES PTY LTD",
-      "value_aud": 0,
-      "published": "2026-08-21",
-      "start_date": "",
-      "end_date": ""
-    },
-    {
-      "id": "prod-6233c8ee69fc4bf6a236c33a151bb1c7",
-      "title": "",
-      "agency": "",
-      "supplier": "SG Fleet Australia Pty Ltd",
-      "value_aud": 0,
-      "published": "2026-08-21",
-      "start_date": "",
-      "end_date": ""
-    },
-    {
-      "id": "prod-e861af471fd0487c9a91419c2661886f",
-      "title": "",
-      "agency": "",
-      "supplier": "MEDICAL AIR PTY LTD",
-      "value_aud": 0,
-      "published": "2026-08-21",
-      "start_date": "",
-      "end_date": ""
-    },
-    {
-      "id": "prod-64a52bbd50d840cfa64e40185c57c832",
-      "title": "",
-      "agency": "",
-      "supplier": "35 SOUTH ADVISORS PTY LTD",
-      "value_aud": 0,
-      "published": "2026-08-21",
-      "start_date": "",
-      "end_date": ""
-    },
-    {
-      "id": "prod-4503c476fe7e4d1b92a84948acde42ea",
-      "title": "",
-      "agency": "",
-      "supplier": "COMPAS PTY LTD",
-      "value_aud": 0,
-      "published": "2026-08-21",
-      "start_date": "",
-      "end_date": ""
-    },
-    {
-      "id": "prod-c016777aeca2454f8fa7bb401f8a1297",
-      "title": "",
-      "agency": "",
-      "supplier": "INTERLINGUAL LANGUAGE SERVICES",
-      "value_aud": 0,
-      "published": "2026-08-21",
-      "start_date": "",
-      "end_date": ""
-    },
-    {
-      "id": "prod-94c38a11cbbf4484bc6d9171f6635694",
-      "title": "",
-      "agency": "",
-      "supplier": "IGNITE LIMITED",
-      "value_aud": 0,
-      "published": "2026-08-21",
-      "start_date": "",
-      "end_date": ""
-    },
-    {
-      "id": "prod-cda588119d8f459c88c61e6be8e74163",
-      "title": "",
-      "agency": "",
-      "supplier": "HORIZON ONE RECRUITMENT PTY LTD",
-      "value_aud": 0,
-      "published": "2026-08-21",
-      "start_date": "",
-      "end_date": ""
-    },
-    {
-      "id": "prod-801a2792e4d744dba5c5e87b2184eacc",
-      "title": "",
-      "agency": "",
-      "supplier": "PEOPLEBANK AUSTRALIA LTD",
-      "value_aud": 0,
-      "published": "2026-08-21",
-      "start_date": "",
-      "end_date": ""
-    },
-    {
-      "id": "prod-e5a75cc6fa5c4a46bea36fe01ee87cd2",
-      "title": "",
-      "agency": "",
+      "id": "CN4271084",
+      "title": "Australian Government Vehicle Rental Services",
+      "agency": "Department of Home Affairs",
       "supplier": "HERTZ AUSTRALIA PTY. LIMITED",
-      "value_aud": 0,
+      "value_aud": 6723315.14,
       "published": "2026-08-21",
-      "start_date": "",
-      "end_date": ""
+      "start_date": "2026-06-30",
+      "end_date": "2030-06-29"
     },
     {
-      "id": "prod-e608974499d24b0eb96ea1b12c0d3b35",
-      "title": "",
-      "agency": "",
-      "supplier": "MELBOURNE CONVENTION &",
-      "value_aud": 0,
+      "id": "CN4271150",
+      "title": "Microsoft Azure & VSA6",
+      "agency": "Sport Integrity Australia",
+      "supplier": "Data # 3 LTD",
+      "value_aud": 1886789.72,
       "published": "2026-08-21",
-      "start_date": "",
-      "end_date": ""
+      "start_date": "2026-08-16",
+      "end_date": "2031-03-17"
     },
     {
-      "id": "prod-e03d566bafa240549b283c0a6675f863",
-      "title": "",
-      "agency": "",
+      "id": "CN4271088",
+      "title": "Organisation Change Management (OCM) Services",
+      "agency": "Department of Infrastructure, Transport, Regional Development, Communications, Sport and the Arts",
+      "supplier": "35 SOUTH ADVISORS PTY LTD",
+      "value_aud": 1006363.6,
+      "published": "2026-08-21",
+      "start_date": "2026-08-12",
+      "end_date": "2028-02-10"
+    },
+    {
+      "id": "CN4271082",
+      "title": "Contract Management and Performance Services",
+      "agency": "Department of Home Affairs",
+      "supplier": "HORIZON ONE RECRUITMENT PTY LTD",
+      "value_aud": 920451.84,
+      "published": "2026-08-21",
+      "start_date": "2026-08-23",
+      "end_date": "2027-06-29"
+    },
+    {
+      "id": "CN4271117",
+      "title": "Health Technology Assessment and Support Services",
+      "agency": "Department of Health, Disability and Ageing",
+      "supplier": "University of Melbourne Statistical Consulting Centre",
+      "value_aud": 907758.0,
+      "published": "2026-08-21",
+      "start_date": "2026-08-16",
+      "end_date": "2028-06-29"
+    },
+    {
+      "id": "CN4271116",
+      "title": "Labour Hire",
+      "agency": "Department of Health, Disability and Ageing",
+      "supplier": "Horizon One Recruitment Pty Ltd",
+      "value_aud": 719136.0,
+      "published": "2026-08-21",
+      "start_date": "2026-08-23",
+      "end_date": "2027-08-23"
+    },
+    {
+      "id": "CN4271172",
+      "title": "Provision of software",
+      "agency": "Australian Taxation Office",
+      "supplier": "DATA #3 LIMITED",
+      "value_aud": 606242.77,
+      "published": "2026-08-21",
+      "start_date": "2026-08-02",
+      "end_date": "2027-06-29"
+    },
+    {
+      "id": "CN4271162",
+      "title": "Diagnostic Laboratory Testing Services",
+      "agency": "Department of Agriculture, Fisheries and Forestry",
+      "supplier": "COMMONWEALTH SCIENTIFIC AND INDUSTRIAL",
+      "value_aud": 600000.0,
+      "published": "2026-08-21",
+      "start_date": "2026-08-17",
+      "end_date": "2027-06-29"
+    },
+    {
+      "id": "CN4271144",
+      "title": "National Measurement Institute  Londonderry Storage Shed Construction",
+      "agency": "Department of Industry, Science and Resources",
+      "supplier": "EVOLVE FM PTY LTD",
+      "value_aud": 498781.25,
+      "published": "2026-08-21",
+      "start_date": "2026-08-19",
+      "end_date": "2027-06-29"
+    },
+    {
+      "id": "CN4271201",
+      "title": "Provision of Tax Office overseas contribution and assignment",
+      "agency": "Australian Taxation Office",
+      "supplier": "ABT ASSOCIATES PTY LTD",
+      "value_aud": 487500.2,
+      "published": "2026-08-21",
+      "start_date": "2026-06-30",
+      "end_date": "2027-06-29"
+    },
+    {
+      "id": "CN4271096",
+      "title": "Insurance and retirement services",
+      "agency": "Australian Prudential Regulation Authority",
+      "supplier": "Comcover",
+      "value_aud": 483437.56,
+      "published": "2026-08-21",
+      "start_date": "2026-06-30",
+      "end_date": "2027-06-29"
+    },
+    {
+      "id": "CN4271180",
+      "title": "Provision of Contingent Labour Hire Services",
+      "agency": "Australian Taxation Office",
+      "supplier": "PAXUS AUSTRALIA PTY LTD",
+      "value_aud": 465889.6,
+      "published": "2026-08-21",
+      "start_date": "2026-08-12",
+      "end_date": "2027-08-07"
+    },
+    {
+      "id": "CN4271175",
+      "title": "Provision of Contingent Labour Hire Services",
+      "agency": "Australian Taxation Office",
+      "supplier": "MTP Services Pty Ltd",
+      "value_aud": 447281.12,
+      "published": "2026-08-21",
+      "start_date": "2026-10-18",
+      "end_date": "2027-10-16"
+    },
+    {
+      "id": "CN4271195",
+      "title": "Provision of Contingent Labour Hire Services",
+      "agency": "Australian Taxation Office",
+      "supplier": "PEOPLEBANK AUSTRALIA PTY LTD",
+      "value_aud": 425316.32,
+      "published": "2026-08-21",
+      "start_date": "2026-09-13",
+      "end_date": "2027-09-11"
+    },
+    {
+      "id": "CN4271202",
+      "title": "Provision of Contingent Labour Hire Services",
+      "agency": "Australian Taxation Office",
+      "supplier": "Clicks Recruit (Australia) Pty Ltd",
+      "value_aud": 424378.24,
+      "published": "2026-08-21",
+      "start_date": "2026-08-16",
+      "end_date": "2027-08-14"
+    },
+    {
+      "id": "CN4271158",
+      "title": "Temporary Personnel",
+      "agency": "Department of Agriculture, Fisheries and Forestry",
+      "supplier": "DIGITAL ADOPTION PARTNERS PTY LTD",
+      "value_aud": 420456.96,
+      "published": "2026-08-21",
+      "start_date": "2026-08-30",
+      "end_date": "2027-08-29"
+    },
+    {
+      "id": "CN4271206",
+      "title": "Provision of Contingent Labour Hire Services",
+      "agency": "Australian Taxation Office",
+      "supplier": "IGNITE LIMITED",
+      "value_aud": 415775.36,
+      "published": "2026-08-21",
+      "start_date": "2026-08-30",
+      "end_date": "2027-08-28"
+    },
+    {
+      "id": "CN4271159",
+      "title": "Temporary Personnel",
+      "agency": "Department of Agriculture, Fisheries and Forestry",
+      "supplier": "CHALFONT CONSULTING PTY LTD",
+      "value_aud": 415034.4,
+      "published": "2026-08-21",
+      "start_date": "2026-08-23",
+      "end_date": "2027-08-22"
+    },
+    {
+      "id": "CN4271174",
+      "title": "Provision of Contingent Labour Hire Services",
+      "agency": "Australian Taxation Office",
+      "supplier": "FACE2FACE RECRUITMENT PTY LTD",
+      "value_aud": 410254.24,
+      "published": "2026-08-21",
+      "start_date": "2026-08-19",
+      "end_date": "2027-08-14"
+    },
+    {
+      "id": "CN4271077",
+      "title": "Maritime Charts and Publications for ABF Fleet",
+      "agency": "Department of Home Affairs",
       "supplier": "MARMATCLA PTY LTD",
-      "value_aud": 0,
+      "value_aud": 400000.0,
       "published": "2026-08-21",
-      "start_date": "",
-      "end_date": ""
+      "start_date": "2026-08-16",
+      "end_date": "2031-08-16"
     },
     {
-      "id": "prod-8a98d8a9a9604008a9b2f1cd57f39564",
-      "title": "",
-      "agency": "",
-      "supplier": "SG FLEET PTY LTD",
-      "value_aud": 0,
-      "published": "2026-08-21",
-      "start_date": "",
-      "end_date": ""
-    },
-    {
-      "id": "prod-dad529ddab2547cf98ad790ed07a7c22",
-      "title": "",
-      "agency": "",
-      "supplier": "SIRSI CORPORATION",
-      "value_aud": 0,
-      "published": "2026-08-21",
-      "start_date": "",
-      "end_date": ""
-    },
-    {
-      "id": "prod-078ef8661cbc44eea9d5987ac6941b00",
-      "title": "",
-      "agency": "",
-      "supplier": "BHAGWAN MARINE PTY LTD",
-      "value_aud": 0,
-      "published": "2026-08-21",
-      "start_date": "",
-      "end_date": ""
-    },
-    {
-      "id": "prod-8d4ad9c853564a6cbc27ac145ab5b508",
-      "title": "",
-      "agency": "",
-      "supplier": "AMNESIUM PTY LTD",
-      "value_aud": 0,
-      "published": "2026-08-21",
-      "start_date": "",
-      "end_date": ""
-    },
-    {
-      "id": "prod-594f57adf01245dd809601f25fd686fc",
-      "title": "",
-      "agency": "",
+      "id": "CN4271072",
+      "title": "ICT Contractor Services",
+      "agency": "Department of Home Affairs",
       "supplier": "SHURA PTY LTD",
-      "value_aud": 0,
+      "value_aud": 399685.0,
       "published": "2026-08-21",
-      "start_date": "",
-      "end_date": ""
+      "start_date": "2026-08-31",
+      "end_date": "2027-06-29"
     },
     {
-      "id": "prod-261172c737244028b42404d768262d08",
-      "title": "",
-      "agency": "",
+      "id": "CN4271194",
+      "title": "Provision of Contingent Labour Hire Services",
+      "agency": "Australian Taxation Office",
+      "supplier": "PAXUS AUSTRALIA PTY LTD",
+      "value_aud": 389028.64,
+      "published": "2026-08-21",
+      "start_date": "2026-08-30",
+      "end_date": "2027-08-28"
+    },
+    {
+      "id": "CN4271184",
+      "title": "Provision of Contingent Labour Hire Services",
+      "agency": "Australian Taxation Office",
+      "supplier": "TALENT INTERNATIONAL",
+      "value_aud": 387231.15,
+      "published": "2026-08-21",
+      "start_date": "2026-08-12",
+      "end_date": "2027-08-07"
+    },
+    {
+      "id": "CN4271083",
+      "title": "Project Manager",
+      "agency": "Department of Home Affairs",
+      "supplier": "PEOPLEBANK AUSTRALIA LTD",
+      "value_aud": 369600.0,
+      "published": "2026-08-21",
+      "start_date": "2026-07-31",
+      "end_date": "2027-06-29"
+    },
+    {
+      "id": "CN4271134",
+      "title": "Economic analysis for privacy reform and Identity Verification Services\u00a0",
+      "agency": "Attorney-General's Department",
+      "supplier": "Nous Group Pty Ltd",
+      "value_aud": 368500.0,
+      "published": "2026-08-21",
+      "start_date": "2026-07-26",
+      "end_date": "2027-07-26"
+    },
+    {
+      "id": "CN4271178",
+      "title": "Provision of Contingent Labour Hire Services",
+      "agency": "Australian Taxation Office",
+      "supplier": "TALENT INTERNATIONAL",
+      "value_aud": 364890.24,
+      "published": "2026-08-21",
+      "start_date": "2026-08-23",
+      "end_date": "2027-08-21"
+    },
+    {
+      "id": "CN4271204",
+      "title": "Provision of Contingent Labour Hire Services",
+      "agency": "Australian Taxation Office",
+      "supplier": "PAXUS AUSTRALIA PTY LTD",
+      "value_aud": 360291.36,
+      "published": "2026-08-21",
+      "start_date": "2026-08-23",
+      "end_date": "2027-08-21"
+    },
+    {
+      "id": "CN4271200",
+      "title": "Provision of Contingent Labour Hire Services",
+      "agency": "Australian Taxation Office",
+      "supplier": "PEOPLEBANK AUSTRALIA PTY LTD",
+      "value_aud": 353473.12,
+      "published": "2026-08-21",
+      "start_date": "2026-08-16",
+      "end_date": "2027-08-14"
+    },
+    {
+      "id": "CN4271081",
+      "title": "ICT Contractor Services",
+      "agency": "Department of Home Affairs",
+      "supplier": "IGNITE LIMITED",
+      "value_aud": 349492.0,
+      "published": "2026-08-21",
+      "start_date": "2026-08-16",
+      "end_date": "2027-06-29"
+    },
+    {
+      "id": "CN4271188",
+      "title": "Provision of Contingent Labour Hire Services",
+      "agency": "Australian Taxation Office",
+      "supplier": "Clicks Recruit (Australia) Pty Ltd",
+      "value_aud": 306042.88,
+      "published": "2026-08-21",
+      "start_date": "2026-08-23",
+      "end_date": "2027-08-21"
+    },
+    {
+      "id": "CN4271177",
+      "title": "Provision of Legal Services",
+      "agency": "Australian Taxation Office",
+      "supplier": "STEPHEN SHARPLEY",
+      "value_aud": 298815.48,
+      "published": "2026-08-21",
+      "start_date": "2026-07-05",
+      "end_date": "2028-06-29"
+    },
+    {
+      "id": "CN4271089",
+      "title": "Hire of contractor - Project",
+      "agency": "Department of Infrastructure, Transport, Regional Development, Communications, Sport and the Arts",
+      "supplier": "COMPAS PTY LTD",
+      "value_aud": 298759.52,
+      "published": "2026-08-21",
+      "start_date": "2026-08-05",
+      "end_date": "2027-06-29"
+    },
+    {
+      "id": "CN4271183",
+      "title": "Provision of Legal Services",
+      "agency": "Australian Taxation Office",
+      "supplier": "Alistair Haskett",
+      "value_aud": 293180.43,
+      "published": "2026-08-21",
+      "start_date": "2026-07-05",
+      "end_date": "2028-06-29"
+    },
+    {
+      "id": "CN4271119",
+      "title": "Labour Hire",
+      "agency": "Department of Health, Disability and Ageing",
+      "supplier": "Indigeco Pty Ltd",
+      "value_aud": 256432.0,
+      "published": "2026-08-21",
+      "start_date": "2026-08-23",
+      "end_date": "2027-08-23"
+    },
+    {
+      "id": "CN4271222",
+      "title": "ICT Contractor Services - LH-06428",
+      "agency": "Department of Employment and Workplace Relations",
+      "supplier": "LOOKAHEAD SEARCH PTY LTD",
+      "value_aud": 246128.0,
+      "published": "2026-08-21",
+      "start_date": "2026-08-11",
+      "end_date": "2027-06-29"
+    },
+    {
+      "id": "CN4271151",
+      "title": "Temporary Labour Hire - APS6 Social Media Officer",
+      "agency": "Sport Integrity Australia",
+      "supplier": "Randstad Pty Limited",
+      "value_aud": 207090.0,
+      "published": "2026-08-21",
+      "start_date": "2026-08-13",
+      "end_date": "2027-06-24"
+    },
+    {
+      "id": "CN4271093",
+      "title": "Program Review",
+      "agency": "Australian Submarine Agency",
+      "supplier": "BDO SERVICES PTY LTD",
+      "value_aud": 189016.05,
+      "published": "2026-08-21",
+      "start_date": "2026-06-14",
+      "end_date": "2026-09-24"
+    },
+    {
+      "id": "CN4271160",
+      "title": "Temporary Personnel",
+      "agency": "Department of Agriculture, Fisheries and Forestry",
+      "supplier": "EMANATE TECHNOLOGY PTY LTD",
+      "value_aud": 171441.6,
+      "published": "2026-08-21",
+      "start_date": "2026-08-24",
+      "end_date": "2027-02-23"
+    },
+    {
+      "id": "CN4271101",
+      "title": "Test Analyst (LH-07101-DUR)",
+      "agency": "Australian Transaction Reports and Analysis Centre",
+      "supplier": "Duro Consulting Pty Ltd",
+      "value_aud": 161304.0,
+      "published": "2026-08-21",
+      "start_date": "2026-08-24",
+      "end_date": "2027-02-24"
+    },
+    {
+      "id": "CN4271115",
+      "title": "Labour Hire",
+      "agency": "Department of Health, Disability and Ageing",
+      "supplier": "Horizon One Recruitment Pty Ltd",
+      "value_aud": 150046.88,
+      "published": "2026-08-21",
+      "start_date": "2026-08-11",
+      "end_date": "2027-08-10"
+    },
+    {
+      "id": "CN4271073",
+      "title": "Long Term Lease Vehicle",
+      "agency": "Department of Home Affairs",
       "supplier": "SG FLEET AUSTRALIA PTY LIMITED",
-      "value_aud": 0,
+      "value_aud": 135805.9,
       "published": "2026-08-21",
-      "start_date": "",
-      "end_date": ""
+      "start_date": "2026-08-13",
+      "end_date": "2030-08-12"
     },
     {
-      "id": "prod-c8641d560c4b422a86ea048530f03677",
-      "title": "",
-      "agency": "",
+      "id": "CN4271074",
+      "title": "Transportation",
+      "agency": "Department of Home Affairs",
       "supplier": "CHRISTMAS ISLAND REMOVALS",
-      "value_aud": 0,
+      "value_aud": 125000.0,
       "published": "2026-08-21",
-      "start_date": "",
-      "end_date": ""
+      "start_date": "2026-08-02",
+      "end_date": "2027-06-29"
     },
     {
-      "id": "prod-136b9bc7ab154aeebc71f544c06b9d15",
-      "title": "",
-      "agency": "",
-      "supplier": "SG FLEET AUSTRALIA PTY LIMITED",
-      "value_aud": 0,
+      "id": "CN4271209",
+      "title": "Provision of Recruitment Services",
+      "agency": "Australian Taxation Office",
+      "supplier": "KARLKA RECRUITING GROUP PTY LTD",
+      "value_aud": 118725.33,
       "published": "2026-08-21",
-      "start_date": "",
-      "end_date": ""
+      "start_date": "2026-07-27",
+      "end_date": "2027-02-27"
     },
     {
-      "id": "prod-7c76b44ea153426e843f21d3396a1117",
-      "title": "",
-      "agency": "",
+      "id": "CN4271118",
+      "title": "Printing and Distribution of Communication Materials",
+      "agency": "Department of Health, Disability and Ageing",
+      "supplier": "NATIONAL MAILING & MARKETING PTY. LIMITED.",
+      "value_aud": 114654.2,
+      "published": "2026-08-21",
+      "start_date": "2026-08-11",
+      "end_date": "2026-10-29"
+    },
+    {
+      "id": "CN4271198",
+      "title": "Provision of software",
+      "agency": "Australian Taxation Office",
+      "supplier": "MICRO SYSTEMATION PTY LTD",
+      "value_aud": 113226.3,
+      "published": "2026-08-21",
+      "start_date": "2026-08-12",
+      "end_date": "2027-08-13"
+    },
+    {
+      "id": "CN4271173",
+      "title": "Provision of legal services",
+      "agency": "Australian Taxation Office",
+      "supplier": "Bridie K Nolan",
+      "value_aud": 112200.0,
+      "published": "2026-08-21",
+      "start_date": "2026-08-19",
+      "end_date": "2027-06-29"
+    },
+    {
+      "id": "CN4271121",
+      "title": "Review of Funding Digital Capability and Sustainment of Aged Care Systems",
+      "agency": "Department of Health, Disability and Ageing",
+      "supplier": "Systems Planning and Analysis, Aust Pty Ltd",
+      "value_aud": 101965.6,
+      "published": "2026-08-21",
+      "start_date": "2026-08-18",
+      "end_date": "2026-12-10"
+    },
+    {
+      "id": "CN4271071",
+      "title": "IT Software Procurement",
+      "agency": "Department of Home Affairs",
+      "supplier": "AMNESIUM PTY LTD",
+      "value_aud": 99228.55,
+      "published": "2026-08-21",
+      "start_date": "2026-09-14",
+      "end_date": "2027-09-13"
+    },
+    {
+      "id": "CN4271208",
+      "title": "Provision of Recruitment and Search Services",
+      "agency": "Australian Taxation Office",
+      "supplier": "Gillian Beaumont Recruitment Pty Lt",
+      "value_aud": 99000.0,
+      "published": "2026-08-21",
+      "start_date": "2026-08-05",
+      "end_date": "2026-11-08"
+    },
+    {
+      "id": "CN4271078",
+      "title": "SG Fleet Leased Car Payout",
+      "agency": "Department of Home Affairs",
+      "supplier": "SG FLEET PTY LTD",
+      "value_aud": 94000.01,
+      "published": "2026-08-21",
+      "start_date": "2026-08-27",
+      "end_date": "2026-09-29"
+    },
+    {
+      "id": "CN4271068",
+      "title": "Venue Hire",
+      "agency": "Department of Home Affairs",
       "supplier": "CBRE (V) PTY LIMITED",
-      "value_aud": 0,
+      "value_aud": 92503.2,
       "published": "2026-08-21",
-      "start_date": "",
-      "end_date": ""
+      "start_date": "2026-08-09",
+      "end_date": "2027-01-29"
     },
     {
-      "id": "prod-3871c9e5d12b442aac419b6e5ee5d0f0",
-      "title": "",
-      "agency": "",
-      "supplier": "SG FLEET AUSTRALIA PTY LIMITED",
-      "value_aud": 0,
+      "id": "CN4271156",
+      "title": "Feral Animal Aerial Surveillance",
+      "agency": "Department of Agriculture, Fisheries and Forestry",
+      "supplier": "WHITSUNDAY COAST HELICOPTERS PTY LTD",
+      "value_aud": 75900.0,
       "published": "2026-08-21",
-      "start_date": "",
-      "end_date": ""
+      "start_date": "2026-10-12",
+      "end_date": "2027-06-29"
+    },
+    {
+      "id": "CN4271069",
+      "title": "Long Term Lease Vehicle",
+      "agency": "Department of Home Affairs",
+      "supplier": "SG FLEET AUSTRALIA PTY LIMITED",
+      "value_aud": 73080.77,
+      "published": "2026-08-21",
+      "start_date": "2026-08-18",
+      "end_date": "2030-08-17"
+    },
+    {
+      "id": "CN4271199",
+      "title": "Provision of legal services",
+      "agency": "Australian Taxation Office",
+      "supplier": "LUCY L MCGOVERN",
+      "value_aud": 72986.13,
+      "published": "2026-08-21",
+      "start_date": "2026-08-05",
+      "end_date": "2027-06-29"
+    },
+    {
+      "id": "CN4271087",
+      "title": "EMERGENCY MEDICAL EVACUATION SERVICES",
+      "agency": "Department of Infrastructure, Transport, Regional Development, Communications, Sport and the Arts",
+      "supplier": "MEDICAL AIR PTY LTD",
+      "value_aud": 72500.0,
+      "published": "2026-08-21",
+      "start_date": "2026-08-19",
+      "end_date": "2026-08-30"
+    },
+    {
+      "id": "CN4271138",
+      "title": "Design services for new fitout",
+      "agency": "Attorney-General's Department",
+      "supplier": "Noble Design Studio Pty Ltd",
+      "value_aud": 70000.0,
+      "published": "2026-08-21",
+      "start_date": "2026-08-13",
+      "end_date": "2026-08-30"
+    },
+    {
+      "id": "CN4271113",
+      "title": "Silica Smart campaign",
+      "agency": "Safe Work Australia",
+      "supplier": "Universal McCann Mediabrands Australia Pty Ltd",
+      "value_aud": 70000.0,
+      "published": "2026-08-21",
+      "start_date": "2026-06-30",
+      "end_date": "2026-10-30"
+    },
+    {
+      "id": "CN4271075",
+      "title": "Long Term Lease Vehicle",
+      "agency": "Department of Home Affairs",
+      "supplier": "SG FLEET AUSTRALIA PTY LIMITED",
+      "value_aud": 68587.27,
+      "published": "2026-08-21",
+      "start_date": "2026-08-12",
+      "end_date": "2030-08-11"
+    },
+    {
+      "id": "CN4271120",
+      "title": "Labour Hire",
+      "agency": "Department of Health, Disability and Ageing",
+      "supplier": "First People Recruitment Solutions",
+      "value_aud": 68274.0,
+      "published": "2026-08-21",
+      "start_date": "2026-08-23",
+      "end_date": "2027-02-04"
+    },
+    {
+      "id": "CN4271142",
+      "title": "Investigation Services",
+      "agency": "Administrative Review Tribunal",
+      "supplier": "Alan Robertson",
+      "value_aud": 60000.0,
+      "published": "2026-08-21",
+      "start_date": "2026-07-30",
+      "end_date": "2026-10-30"
+    },
+    {
+      "id": "CN4271190",
+      "title": "Provision of Legal Services",
+      "agency": "Australian Taxation Office",
+      "supplier": "CAROLYN J CONWAY B.A. LL.M",
+      "value_aud": 56100.0,
+      "published": "2026-08-21",
+      "start_date": "2026-08-05",
+      "end_date": "2027-06-29"
+    },
+    {
+      "id": "CN4271102",
+      "title": "Specialist Technical Advisor",
+      "agency": "Department of the Prime Minister and Cabinet",
+      "supplier": "Simon Philip Merrifield t/a  Indo-Pac Strategic Advisory Services",
+      "value_aud": 55000.0,
+      "published": "2026-08-21",
+      "start_date": "2026-08-31",
+      "end_date": "2026-10-30"
+    },
+    {
+      "id": "CN4271122",
+      "title": "Microsoft Subscription License",
+      "agency": "Department of Health, Disability and Ageing",
+      "supplier": "DATA # 3 GROUP",
+      "value_aud": 53603.55,
+      "published": "2026-08-21",
+      "start_date": "2026-08-19",
+      "end_date": "2027-08-18"
+    },
+    {
+      "id": "CN4271080",
+      "title": "Operational planning, crewing and administration",
+      "agency": "Department of Home Affairs",
+      "supplier": "BHAGWAN MARINE PTY LTD",
+      "value_aud": 49656.12,
+      "published": "2026-08-21",
+      "start_date": "2026-06-30",
+      "end_date": "2027-06-29"
+    },
+    {
+      "id": "CN4271086",
+      "title": "Motor Vehicle Leasing and fleet Management\u00a0",
+      "agency": "Department of the Senate",
+      "supplier": "SG Fleet Australia Pty Ltd",
+      "value_aud": 47000.0,
+      "published": "2026-08-21",
+      "start_date": "2026-07-13",
+      "end_date": "2029-07-13"
+    },
+    {
+      "id": "CN4271171",
+      "title": "Provision of legal services",
+      "agency": "Australian Taxation Office",
+      "supplier": "SHANTA MARTIN",
+      "value_aud": 46200.0,
+      "published": "2026-08-21",
+      "start_date": "2026-07-30",
+      "end_date": "2027-06-29"
+    },
+    {
+      "id": "CN4271191",
+      "title": "Provision of Legal Services",
+      "agency": "Australian Taxation Office",
+      "supplier": "Felicity Maher",
+      "value_aud": 37350.01,
+      "published": "2026-08-21",
+      "start_date": "2026-07-23",
+      "end_date": "2027-06-29"
+    },
+    {
+      "id": "CN4271079",
+      "title": "IT Software Procurement",
+      "agency": "Department of Home Affairs",
+      "supplier": "SIRSI CORPORATION",
+      "value_aud": 36063.9,
+      "published": "2026-08-21",
+      "start_date": "2026-08-03",
+      "end_date": "2027-07-30"
+    },
+    {
+      "id": "CN4271187",
+      "title": "Provision of Legal Services",
+      "agency": "Australian Taxation Office",
+      "supplier": "CATHERINE PIERCE",
+      "value_aud": 35925.0,
+      "published": "2026-08-21",
+      "start_date": "2026-08-04",
+      "end_date": "2027-06-29"
+    },
+    {
+      "id": "CN4271203",
+      "title": "Venue Hire and Meeting Facilities",
+      "agency": "Australian Taxation Office",
+      "supplier": "Royal Residence Hotels and Resorts Ltd T.as Hyatt Regency Phnom Penh",
+      "value_aud": 35000.0,
+      "published": "2026-08-21",
+      "start_date": "2026-07-29",
+      "end_date": "2026-12-17"
+    },
+    {
+      "id": "CN4271076",
+      "title": "Venue Hire",
+      "agency": "Department of Home Affairs",
+      "supplier": "MELBOURNE CONVENTION &",
+      "value_aud": 31055.4,
+      "published": "2026-08-21",
+      "start_date": "2026-08-03",
+      "end_date": "2026-09-18"
+    },
+    {
+      "id": "CN4271135",
+      "title": "Conference sponsorship",
+      "agency": "Attorney-General's Department",
+      "supplier": "Australian Children's Contact",
+      "value_aud": 30000.0,
+      "published": "2026-08-21",
+      "start_date": "2026-08-17",
+      "end_date": "2027-05-30"
+    },
+    {
+      "id": "CN4271205",
+      "title": "Provision of recruitment services",
+      "agency": "Australian Taxation Office",
+      "supplier": "FIRST GRADE GROUP PTY LTD",
+      "value_aud": 29969.28,
+      "published": "2026-08-21",
+      "start_date": "2026-08-04",
+      "end_date": "2026-11-04"
+    },
+    {
+      "id": "CN4271125",
+      "title": "Online Database Subscription",
+      "agency": "Department of Health, Disability and Ageing",
+      "supplier": "CHMICAL ABSTRACTS SERVICE",
+      "value_aud": 26971.44,
+      "published": "2026-08-21",
+      "start_date": "2026-08-31",
+      "end_date": "2027-08-30"
+    },
+    {
+      "id": "CN4271192",
+      "title": "Provision for Cloud Services",
+      "agency": "Australian Taxation Office",
+      "supplier": "Google Australia Pty Ltd",
+      "value_aud": 21450.0,
+      "published": "2026-08-21",
+      "start_date": "2026-07-30",
+      "end_date": "2027-07-30"
+    },
+    {
+      "id": "CN4271149",
+      "title": "External Legal Services",
+      "agency": "Sport Integrity Australia",
+      "supplier": "L.P Aiken & Others -Thomsons Thomson Geer",
+      "value_aud": 20570.0,
+      "published": "2026-08-21",
+      "start_date": "2026-08-18",
+      "end_date": "2027-06-29"
+    },
+    {
+      "id": "CN4271181",
+      "title": "Provision of Legal Service",
+      "agency": "Australian Taxation Office",
+      "supplier": "Beatrice Paull",
+      "value_aud": 20219.76,
+      "published": "2026-08-21",
+      "start_date": "2026-08-04",
+      "end_date": "2027-06-29"
+    },
+    {
+      "id": "CN4271152",
+      "title": "International Sample Collection",
+      "agency": "Sport Integrity Australia",
+      "supplier": "Clearidium",
+      "value_aud": 19500.0,
+      "published": "2026-08-21",
+      "start_date": "2026-08-11",
+      "end_date": "2026-08-30"
+    },
+    {
+      "id": "CN4271185",
+      "title": "Provision of legal services",
+      "agency": "Australian Taxation Office",
+      "supplier": "Michael J Wyles",
+      "value_aud": 19305.0,
+      "published": "2026-08-21",
+      "start_date": "2026-07-22",
+      "end_date": "2027-06-29"
+    },
+    {
+      "id": "CN4271193",
+      "title": "Provision of legal services",
+      "agency": "Australian Taxation Office",
+      "supplier": "Anya Poukchanski",
+      "value_aud": 19210.0,
+      "published": "2026-08-21",
+      "start_date": "2026-06-24",
+      "end_date": "2027-06-29"
+    },
+    {
+      "id": "CN4271207",
+      "title": "Provision of legal services",
+      "agency": "Australian Taxation Office",
+      "supplier": "Susan Cirillo",
+      "value_aud": 18535.0,
+      "published": "2026-08-21",
+      "start_date": "2026-07-29",
+      "end_date": "2027-06-29"
+    },
+    {
+      "id": "CN4271085",
+      "title": "Interpretation Services for Event",
+      "agency": "Department of Home Affairs",
+      "supplier": "INTERLINGUAL LANGUAGE SERVICES",
+      "value_aud": 18502.0,
+      "published": "2026-08-21",
+      "start_date": "2025-09-21",
+      "end_date": "2025-09-22"
+    },
+    {
+      "id": "CN4271197",
+      "title": "Provision of Legal Services",
+      "agency": "Australian Taxation Office",
+      "supplier": "Selena Bateman",
+      "value_aud": 17973.32,
+      "published": "2026-08-21",
+      "start_date": "2026-07-09",
+      "end_date": "2027-06-29"
+    },
+    {
+      "id": "CN4271189",
+      "title": "Provision of Legal Services",
+      "agency": "Australian Taxation Office",
+      "supplier": "James O'Hara",
+      "value_aud": 17931.49,
+      "published": "2026-08-21",
+      "start_date": "2026-08-03",
+      "end_date": "2027-06-29"
+    },
+    {
+      "id": "CN4271179",
+      "title": "Provision of legal services",
+      "agency": "Australian Taxation Office",
+      "supplier": "CHRISSY MAVROUDIS",
+      "value_aud": 16500.0,
+      "published": "2026-08-21",
+      "start_date": "2026-07-30",
+      "end_date": "2027-06-29"
+    },
+    {
+      "id": "CN4271123",
+      "title": "Probity Services for the Women's Health Trials Implementation",
+      "agency": "Department of Health, Disability and Ageing",
+      "supplier": "O'CONNOR MARSDEN & ASSOCIATES PTY LTD",
+      "value_aud": 16240.0,
+      "published": "2026-08-21",
+      "start_date": "2026-08-16",
+      "end_date": "2027-06-29"
+    },
+    {
+      "id": "CN4271148",
+      "title": "International Sample Collection",
+      "agency": "Sport Integrity Australia",
+      "supplier": "International Doping Tests & Manage",
+      "value_aud": 15500.0,
+      "published": "2026-08-21",
+      "start_date": "2026-08-06",
+      "end_date": "2026-08-30"
+    },
+    {
+      "id": "CN4271124",
+      "title": "Property Services - Car parking",
+      "agency": "Department of Health, Disability and Ageing",
+      "supplier": "The Trustee for NC2 Hunter Unit Tru",
+      "value_aud": 14705.64,
+      "published": "2026-08-21",
+      "start_date": "2026-08-04",
+      "end_date": "2029-08-13"
+    },
+    {
+      "id": "CN4271196",
+      "title": "Tuition Women in leadershp",
+      "agency": "Australian Taxation Office",
+      "supplier": "MELBOURNE BUSINESS SCHOOL LTD",
+      "value_aud": 14500.0,
+      "published": "2026-08-21",
+      "start_date": "2026-08-18",
+      "end_date": "2026-11-21"
+    },
+    {
+      "id": "CN4271233",
+      "title": "Quantity Surveyor Cost Planning",
+      "agency": "Administrative Review Tribunal",
+      "supplier": "WILDE AND WOOLLARD",
+      "value_aud": 14445.1,
+      "published": "2026-08-21",
+      "start_date": "2026-03-05",
+      "end_date": "2026-05-04"
+    },
+    {
+      "id": "CN4271137",
+      "title": "Expert Assistance",
+      "agency": "Attorney-General's Department",
+      "supplier": "Moonshot CVE Ltd",
+      "value_aud": 14000.0,
+      "published": "2026-08-21",
+      "start_date": "2026-06-18",
+      "end_date": "2026-08-30"
+    },
+    {
+      "id": "CN4271161",
+      "title": "Grains Innovation Tour 2026",
+      "agency": "Department of Agriculture, Fisheries and Forestry",
+      "supplier": "GRAIN GROWERS LIMITED",
+      "value_aud": 13200.0,
+      "published": "2026-08-21",
+      "start_date": "2026-07-26",
+      "end_date": "2026-08-30"
+    },
+    {
+      "id": "CN4271095",
+      "title": "Venue Hire",
+      "agency": "Australian Prudential Regulation Authority",
+      "supplier": "Amora Jamison Sydney",
+      "value_aud": 12606.0,
+      "published": "2026-08-21",
+      "start_date": "2026-07-30",
+      "end_date": "2027-02-03"
+    },
+    {
+      "id": "CN4271176",
+      "title": "Leaning and Development -2026 Comcare Conference",
+      "agency": "Australian Taxation Office",
+      "supplier": "Comcare Australia Conference Logistics acting as agen",
+      "value_aud": 12430.0,
+      "published": "2026-08-21",
+      "start_date": "2026-09-13",
+      "end_date": "2026-09-15"
+    },
+    {
+      "id": "CN4271100",
+      "title": "Accounting treatment review",
+      "agency": "National Blood Authority",
+      "supplier": "Garnett Solutions Pty Limited & Others (t/a Bellchambers Barrett)",
+      "value_aud": 12000.0,
+      "published": "2026-08-21",
+      "start_date": "2026-08-17",
+      "end_date": "2026-10-30"
+    },
+    {
+      "id": "CN4270005",
+      "title": "Venue hire & meeting facilities",
+      "agency": "Department of Social Services",
+      "supplier": "Stamford Plaza Adelaide",
+      "value_aud": 11688.6,
+      "published": "2026-08-21",
+      "start_date": "2026-08-16",
+      "end_date": "2026-08-20"
+    },
+    {
+      "id": "CN4271136",
+      "title": "Expert Assistance",
+      "agency": "Attorney-General's Department",
+      "supplier": "Institute for the Strategic Dialogue",
+      "value_aud": 11672.0,
+      "published": "2026-08-21",
+      "start_date": "2026-06-08",
+      "end_date": "2026-08-30"
+    },
+    {
+      "id": "CN4271157",
+      "title": "LEX 36779 - Legal Services",
+      "agency": "Department of Agriculture, Fisheries and Forestry",
+      "supplier": "CLAYTON UTZ",
+      "value_aud": 11408.17,
+      "published": "2026-08-21",
+      "start_date": "2026-08-18",
+      "end_date": "2027-06-29"
+    },
+    {
+      "id": "CN4271186",
+      "title": "Provision of Legal Services",
+      "agency": "Australian Taxation Office",
+      "supplier": "Gavin Rees",
+      "value_aud": 10800.0,
+      "published": "2026-08-21",
+      "start_date": "2026-06-04",
+      "end_date": "2027-06-29"
+    },
+    {
+      "id": "CN4271182",
+      "title": "Provision of Legal Services",
+      "agency": "Australian Taxation Office",
+      "supplier": "Nicola Gollan",
+      "value_aud": 10065.35,
+      "published": "2026-08-21",
+      "start_date": "2026-05-03",
+      "end_date": "2027-06-29"
     }
   ]
 }
