@@ -8,14 +8,18 @@ title: Home
 
 <div class="card-grid">
   <div class="card">
+    <div class="label">Contracts</div>
+    <div class="stat">
+      {% if contracts.total %}{{ contracts.total }}{% else %}—{% endif %}
+    </div>
+    <div class="label">
+      {% if contracts.total %}Published last 30 days · <a href="/contracts/" style="color:#2E6B9E">View all</a>{% else %}Data loading soon{% endif %}
+    </div>
+  </div>
+  <div class="card">
     <div class="label">Federal Budget</div>
     <div class="stat">Coming soon</div>
     <div class="label">Live spending data</div>
-  </div>
-  <div class="card">
-    <div class="label">Contracts</div>
-    <div class="stat">Coming soon</div>
-    <div class="label">AusTender data</div>
   </div>
   <div class="card">
     <div class="label">Senate Divisions</div>
@@ -29,4 +33,4 @@ title: Home
   </div>
 </div>
 
-<p><span class="badge">Beta</span> Public Glass is under construction. Data integrations coming soon.</p>
+<p><span class="badge">Beta</span> Public Glass is under construction. Contract data updates daily from AusTender.</p>
