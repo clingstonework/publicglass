@@ -38,22 +38,45 @@ def extract_contracts(raw):
     for release in releases:
         try:
             awards = release.get("awards", [])
-            tender = release.get("tender", {})
-            buyer = release.get("buyer", {})
-            for award in awards:
-                suppliers = award.get("suppliers", [])
+            release_contracts = release.get("contracts", [])
+            parties = release.get("parties", [])
+
+            # Agency is the party with role "procuringEntity"
+            agency = ""
+            for party in parties:
+                if "procuringEntity" in party.get("roles", []):
+                    agency = party.get("name", "")
+                    break
+
+            # Supplier from first award
+            supplier_name = ""
+            if awards:
+                suppliers = awards[0].get("suppliers", [])
                 supplier_name = suppliers[0].get("name", "") if suppliers else ""
-                value = award.get("value", {})
-                contracts.append({
-                    "id": release.get("ocid", ""),
-                    "title": tender.get("title") or award.get("title", ""),
-                    "agency": buyer.get("name", ""),
-                    "supplier": supplier_name,
-                    "value_aud": value.get("amount", 0),
-                    "published": release.get("date", "")[:10],
-                    "start_date": award.get("contractPeriod", {}).get("startDate", "")[:10] if award.get("contractPeriod", {}).get("startDate") else "",
-                    "end_date": award.get("contractPeriod", {}).get("endDate", "")[:10] if award.get("contractPeriod", {}).get("endDate") else "",
-                })
+
+            # Title, value, and dates are in the contracts array
+            contract = release_contracts[0] if release_contracts else {}
+            title = contract.get("description", "")
+            period = contract.get("period", {})
+            value_raw = contract.get("value", {}).get("amount", 0)
+            try:
+                value_aud = float(value_raw) if value_raw else 0
+            except (ValueError, TypeError):
+                value_aud = 0
+
+            start_date = period.get("startDate", "")[:10] if period.get("startDate") else ""
+            end_date = period.get("endDate", "")[:10] if period.get("endDate") else ""
+
+            contracts.append({
+                "id": contract.get("id") or release.get("ocid", ""),
+                "title": title,
+                "agency": agency,
+                "supplier": supplier_name,
+                "value_aud": value_aud,
+                "published": release.get("date", "")[:10],
+                "start_date": start_date,
+                "end_date": end_date,
+            })
         except Exception:
             continue
     return contracts
@@ -79,7 +102,7 @@ def main():
         "from_date": from_dt[:10],
         "to_date": to_dt[:10],
         "total": len(contracts),
-        "contracts": contracts[:200]  # cap at 200 records
+        "contracts": contracts[:200]
     }
 
     os.makedirs(os.path.dirname(OUTPUT_FILE), exist_ok=True)
