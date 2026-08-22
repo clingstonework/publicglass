@@ -1,0 +1,12 @@
+{
+  "name": "publicglass",
+  "version": "1.0.0",
+  "description": "Australian federal government transparency site",
+  "scripts": {
+    "build": "npx @11ty/eleventy",
+    "start": "npx @11ty/eleventy --serve"
+  },
+  "devDependencies": {
+    "@11ty/eleventy": "^2.0.1"
+  }
+}

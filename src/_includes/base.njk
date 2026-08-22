@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>{{ title }} | Public Glass</title>
+  <link rel="stylesheet" href="/css/style.css">
+</head>
+<body>
+  <header>
+    <div class="container">
+      <a href="/" class="site-title">Public Glass</a>
+      <nav>
+        <a href="/spending/">Spending</a>
+        <a href="/contracts/">Contracts</a>
+        <a href="/senate/">Senate</a>
+        <a href="/about/">About</a>
+      </nav>
+    </div>
+  </header>
+  <main class="container">
+    {{ content | safe }}
+  </main>
+  <footer>
+    <div class="container">
+      <p>Public Glass — Australian federal government transparency. Data sourced from official government APIs.</p>
+    </div>
+  </footer>
+</body>
+</html>

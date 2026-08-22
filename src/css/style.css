@@ -1,0 +1,99 @@
+*, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+body {
+  font-family: Georgia, 'Times New Roman', serif;
+  color: #1a1a1a;
+  background: #f9f9f7;
+  line-height: 1.6;
+}
+
+.container {
+  max-width: 720px;
+  margin: 0 auto;
+  padding: 0 1.5rem;
+}
+
+/* Header */
+header {
+  background: #1C3D5A;
+  border-bottom: 3px solid #2E6B9E;
+  padding: 1rem 0;
+}
+
+header .container {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.site-title {
+  color: #fff;
+  font-size: 1.4rem;
+  font-weight: bold;
+  text-decoration: none;
+  letter-spacing: 0.02em;
+}
+
+nav a {
+  color: #a8c8e8;
+  text-decoration: none;
+  margin-left: 1.5rem;
+  font-family: system-ui, sans-serif;
+  font-size: 0.9rem;
+}
+
+nav a:hover { color: #fff; }
+
+/* Main */
+main { padding: 2rem 0 3rem; }
+
+h1 { font-size: 1.8rem; margin-bottom: 0.5rem; color: #1C3D5A; }
+h2 { font-size: 1.3rem; margin: 1.5rem 0 0.5rem; color: #1C3D5A; }
+
+.lead {
+  font-size: 1.05rem;
+  color: #444;
+  margin-bottom: 2rem;
+  font-family: system-ui, sans-serif;
+}
+
+/* Cards */
+.card-grid {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 1rem;
+  margin: 1.5rem 0;
+}
+
+.card {
+  background: #fff;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+  padding: 1.25rem;
+}
+
+.card h3 { font-size: 1rem; color: #1C3D5A; margin-bottom: 0.25rem; }
+.card .stat { font-size: 1.8rem; font-weight: bold; color: #2E6B9E; }
+.card .label { font-size: 0.8rem; color: #666; font-family: system-ui, sans-serif; }
+
+/* Badge */
+.badge {
+  display: inline-block;
+  background: #1C3D5A;
+  color: #fff;
+  font-size: 0.75rem;
+  padding: 0.15rem 0.5rem;
+  border-radius: 2px;
+  font-family: system-ui, sans-serif;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+}
+
+/* Footer */
+footer {
+  background: #1C3D5A;
+  color: #a8c8e8;
+  padding: 1.5rem 0;
+  font-size: 0.85rem;
+  font-family: system-ui, sans-serif;
+}
