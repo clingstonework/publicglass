@@ -1,19 +1,22 @@
 #!/usr/bin/env python3
 """
-Fetch recent contract notices from AusTender OCDS API.
+Fetch contract notices from AusTender OCDS API for the current Australian financial year.
 Saves to src/_data/contracts.json for use by 11ty.
 """
 
 import json
 import urllib.request
 import urllib.error
-from datetime import datetime, timedelta, timezone
+from collections import defaultdict
+from datetime import datetime, timezone
 import os
 import sys
 
 API_BASE = "https://api.tenders.gov.au/ocds/findByDates/contractPublished"
-DAYS_BACK = 30
 OUTPUT_FILE = os.path.join(os.path.dirname(__file__), "../src/_data/contracts.json")
+
+# Max contracts to display per month (by value, descending)
+MAX_PER_MONTH = 200
 
 
 def fetch_contracts(from_date, to_date):
@@ -21,7 +24,7 @@ def fetch_contracts(from_date, to_date):
     print(f"Fetching: {url}")
     try:
         req = urllib.request.Request(url, headers={"Accept": "application/json"})
-        with urllib.request.urlopen(req, timeout=30) as resp:
+        with urllib.request.urlopen(req, timeout=60) as resp:
             return json.loads(resp.read().decode("utf-8"))
     except urllib.error.HTTPError as e:
         print(f"HTTP Error {e.code}: {e.reason}", file=sys.stderr)
@@ -67,13 +70,28 @@ def extract_contracts(raw):
             start_date = period.get("startDate", "")[:10] if period.get("startDate") else ""
             end_date = period.get("endDate", "")[:10] if period.get("endDate") else ""
 
+            # Build the AusTender website URL from the award UUID
+            url_id = ""
+            if awards:
+                award_id = awards[0].get("id", "")
+                # award_id format: "CN4265965-e7b05659e78b4bbd93f5f6f3c6b8bd77"
+                parts = award_id.split("-", 1)
+                if len(parts) == 2 and len(parts[1]) == 32:
+                    h = parts[1]
+                    url_id = f"{h[0:8]}-{h[8:12]}-{h[12:16]}-{h[16:20]}-{h[20:32]}"
+
+            published = release.get("date", "")[:10]
+            month_key = published[:7] if published else ""  # e.g. "2026-08"
+
             contracts.append({
                 "id": contract.get("id") or release.get("ocid", ""),
+                "url_id": url_id,
                 "title": title,
                 "agency": agency,
                 "supplier": supplier_name,
                 "value_aud": value_aud,
-                "published": release.get("date", "")[:10],
+                "published": published,
+                "month": month_key,
                 "start_date": start_date,
                 "end_date": end_date,
             })
@@ -82,10 +100,54 @@ def extract_contracts(raw):
     return contracts
 
 
+def fy_date_range(now):
+    """Return (from_dt, to_dt, fy_label) for the current Australian financial year."""
+    year = now.year
+    month = now.month
+    fy_start_year = year if month >= 7 else year - 1
+    fy_label = f"{fy_start_year}-{str(fy_start_year + 1)[2:]}"
+    from_dt = f"{fy_start_year}-07-01T00:00:00Z"
+    to_dt = now.strftime("%Y-%m-%dT23:59:59Z")
+    return from_dt, to_dt, fy_label
+
+
+def month_label(month_key):
+    """Convert '2026-08' to 'August 2026'."""
+    try:
+        return datetime.strptime(month_key, "%Y-%m").strftime("%B %Y")
+    except Exception:
+        return month_key
+
+
+def group_by_month(contracts):
+    """
+    Group contracts by month. Each month gets:
+      - label, count, total_value (across ALL contracts in month)
+      - top MAX_PER_MONTH contracts by value for display
+    Returns list sorted newest month first.
+    """
+    buckets = defaultdict(list)
+    for c in contracts:
+        buckets[c["month"]].append(c)
+
+    months = []
+    for mk in sorted(buckets.keys(), reverse=True):
+        group = buckets[mk]
+        total_value = sum(c["value_aud"] or 0 for c in group)
+        top_contracts = sorted(group, key=lambda c: c["value_aud"] or 0, reverse=True)[:MAX_PER_MONTH]
+        months.append({
+            "month": mk,
+            "label": month_label(mk),
+            "count": len(group),
+            "total_value": round(total_value, 2),
+            "contracts": top_contracts,
+        })
+    return months
+
+
 def main():
     now = datetime.now(timezone.utc)
-    from_dt = (now - timedelta(days=DAYS_BACK)).strftime("%Y-%m-%dT00:00:00Z")
-    to_dt = now.strftime("%Y-%m-%dT23:59:59Z")
+    from_dt, to_dt, fy_label = fy_date_range(now)
 
     raw = fetch_contracts(from_dt, to_dt)
     if raw is None:
@@ -93,23 +155,22 @@ def main():
         sys.exit(1)
 
     contracts = extract_contracts(raw)
-
-    # Sort by value descending
-    contracts.sort(key=lambda c: c["value_aud"] or 0, reverse=True)
+    months = group_by_month(contracts)
 
     output = {
         "fetched_at": now.strftime("%Y-%m-%dT%H:%M:%SZ"),
+        "fy": fy_label,
         "from_date": from_dt[:10],
         "to_date": to_dt[:10],
         "total": len(contracts),
-        "contracts": contracts[:200]
+        "months": months,
     }
 
     os.makedirs(os.path.dirname(OUTPUT_FILE), exist_ok=True)
     with open(OUTPUT_FILE, "w") as f:
         json.dump(output, f, indent=2)
 
-    print(f"Saved {len(contracts)} contracts to {OUTPUT_FILE}")
+    print(f"Saved {len(contracts)} contracts across {len(months)} months to {OUTPUT_FILE}")
 
 
 if __name__ == "__main__":
