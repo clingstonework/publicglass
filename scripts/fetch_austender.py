@@ -100,15 +100,39 @@ def extract_contracts(raw):
     return contracts
 
 
-def fy_date_range(now):
-    """Return (from_dt, to_dt, fy_label) for the current Australian financial year."""
+def fy_months(now):
+    """
+    Return list of (year, month) tuples for the current Australian financial year,
+    from July of the FY start year up to the current month.
+    Also returns the FY label string.
+    """
     year = now.year
     month = now.month
     fy_start_year = year if month >= 7 else year - 1
     fy_label = f"{fy_start_year}-{str(fy_start_year + 1)[2:]}"
-    from_dt = f"{fy_start_year}-07-01T00:00:00Z"
-    to_dt = now.strftime("%Y-%m-%dT23:59:59Z")
-    return from_dt, to_dt, fy_label
+
+    months = []
+    y, m = fy_start_year, 7
+    while (y, m) <= (year, month):
+        months.append((y, m))
+        m += 1
+        if m > 12:
+            m = 1
+            y += 1
+    return months, fy_label
+
+
+def month_date_range(year, month, now):
+    """Return (from_dt, to_dt) for a given year/month, capped at today."""
+    import calendar
+    _, last_day = calendar.monthrange(year, month)
+    from_dt = f"{year}-{month:02d}-01T00:00:00Z"
+    # Cap end date at today for the current month
+    if year == now.year and month == now.month:
+        to_dt = now.strftime("%Y-%m-%dT23:59:59Z")
+    else:
+        to_dt = f"{year}-{month:02d}-{last_day:02d}T23:59:59Z"
+    return from_dt, to_dt
 
 
 def month_label(month_key):
@@ -147,21 +171,28 @@ def group_by_month(contracts):
 
 def main():
     now = datetime.now(timezone.utc)
-    from_dt, to_dt, fy_label = fy_date_range(now)
+    fy_month_list, fy_label = fy_months(now)
 
-    raw = fetch_contracts(from_dt, to_dt)
-    if raw is None:
-        print("Failed to fetch data. Aborting.", file=sys.stderr)
+    # Fetch one API call per month to avoid the 100-record limit
+    all_contracts = []
+    for year, month in fy_month_list:
+        from_dt, to_dt = month_date_range(year, month, now)
+        raw = fetch_contracts(from_dt, to_dt)
+        if raw is None:
+            print(f"Failed to fetch {year}-{month:02d}, skipping.", file=sys.stderr)
+            continue
+        all_contracts.extend(extract_contracts(raw))
+
+    if not all_contracts:
+        print("No contract data retrieved. Aborting.", file=sys.stderr)
         sys.exit(1)
 
-    contracts = extract_contracts(raw)
+    contracts = all_contracts
     months = group_by_month(contracts)
 
     output = {
         "fetched_at": now.strftime("%Y-%m-%dT%H:%M:%SZ"),
         "fy": fy_label,
-        "from_date": from_dt[:10],
-        "to_date": to_dt[:10],
         "total": len(contracts),
         "months": months,
     }
