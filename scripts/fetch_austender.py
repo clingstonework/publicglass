@@ -100,39 +100,31 @@ def extract_contracts(raw):
     return contracts
 
 
-def fy_months(now):
+def fy_weeks(now):
     """
-    Return list of (year, month) tuples for the current Australian financial year,
-    from July of the FY start year up to the current month.
+    Return list of (from_dt, to_dt) weekly date ranges for the current Australian financial year.
+    Weekly windows keep each API call well under the 100-record page limit.
     Also returns the FY label string.
     """
+    from datetime import date, timedelta
     year = now.year
     month = now.month
     fy_start_year = year if month >= 7 else year - 1
     fy_label = f"{fy_start_year}-{str(fy_start_year + 1)[2:]}"
 
-    months = []
-    y, m = fy_start_year, 7
-    while (y, m) <= (year, month):
-        months.append((y, m))
-        m += 1
-        if m > 12:
-            m = 1
-            y += 1
-    return months, fy_label
+    fy_start = date(fy_start_year, 7, 1)
+    today = now.date()
 
+    weeks = []
+    cursor = fy_start
+    while cursor <= today:
+        week_end = min(cursor + timedelta(days=6), today)
+        from_dt = f"{cursor.isoformat()}T00:00:00Z"
+        to_dt = f"{week_end.isoformat()}T23:59:59Z"
+        weeks.append((from_dt, to_dt))
+        cursor = week_end + timedelta(days=1)
 
-def month_date_range(year, month, now):
-    """Return (from_dt, to_dt) for a given year/month, capped at today."""
-    import calendar
-    _, last_day = calendar.monthrange(year, month)
-    from_dt = f"{year}-{month:02d}-01T00:00:00Z"
-    # Cap end date at today for the current month
-    if year == now.year and month == now.month:
-        to_dt = now.strftime("%Y-%m-%dT23:59:59Z")
-    else:
-        to_dt = f"{year}-{month:02d}-{last_day:02d}T23:59:59Z"
-    return from_dt, to_dt
+    return weeks, fy_label
 
 
 def month_label(month_key):
@@ -171,17 +163,22 @@ def group_by_month(contracts):
 
 def main():
     now = datetime.now(timezone.utc)
-    fy_month_list, fy_label = fy_months(now)
+    week_ranges, fy_label = fy_weeks(now)
 
-    # Fetch one API call per month to avoid the 100-record limit
+    # Fetch one API call per week — keeps each call well under the 100-record page limit
     all_contracts = []
-    for year, month in fy_month_list:
-        from_dt, to_dt = month_date_range(year, month, now)
+    seen_ids = set()
+    for from_dt, to_dt in week_ranges:
         raw = fetch_contracts(from_dt, to_dt)
         if raw is None:
-            print(f"Failed to fetch {year}-{month:02d}, skipping.", file=sys.stderr)
+            print(f"Failed to fetch {from_dt[:10]} to {to_dt[:10]}, skipping.", file=sys.stderr)
             continue
-        all_contracts.extend(extract_contracts(raw))
+        week_contracts = extract_contracts(raw)
+        # Deduplicate in case of any overlap at week boundaries
+        for c in week_contracts:
+            if c["id"] not in seen_ids:
+                seen_ids.add(c["id"])
+                all_contracts.append(c)
 
     if not all_contracts:
         print("No contract data retrieved. Aborting.", file=sys.stderr)

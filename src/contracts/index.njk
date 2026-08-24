@@ -12,24 +12,23 @@ title: Contracts
 </p>
 
 {% for month in contracts.months %}
-<div style="margin-bottom:2.5rem;">
+<details {% if loop.first %}open{% endif %} style="margin-bottom:1.5rem;border:1px solid #dde3ea;border-radius:6px;overflow:hidden;">
 
-  <div style="display:flex;align-items:baseline;gap:1.5rem;border-bottom:2px solid #1C3D5A;padding-bottom:0.4rem;margin-bottom:0.75rem;">
-    <h2 style="font-family:system-ui,sans-serif;font-size:1.1rem;font-weight:700;color:#1C3D5A;margin:0;">{{ month.label }}</h2>
+  <summary style="cursor:pointer;padding:0.75rem 1rem;background:#f5f7fa;list-style:none;display:flex;align-items:baseline;gap:1rem;user-select:none;">
+    <span style="font-family:system-ui,sans-serif;font-size:1rem;font-weight:700;color:#1C3D5A;">{{ month.label }}</span>
     <span style="font-family:system-ui,sans-serif;font-size:0.85rem;color:#555;">
-      {{ month.count }} contracts
-      &nbsp;·&nbsp;
-      {{ month.total_value | formatMoney }} total
+      {{ month.count }} contracts &nbsp;·&nbsp; {{ month.total_value | formatMoney }} total
       {% if month.contracts | length < month.count %}
         &nbsp;·&nbsp; showing top {{ month.contracts | length }} by value
       {% endif %}
     </span>
-  </div>
+    <span style="margin-left:auto;font-size:0.8rem;color:#888;">▼</span>
+  </summary>
 
-  <div style="overflow-x:auto;">
+  <div style="overflow-x:auto;padding:0.5rem 0;">
   <table style="width:100%;border-collapse:collapse;font-family:system-ui,sans-serif;font-size:0.85rem;">
     <thead>
-      <tr style="text-align:left;background:#f5f7fa;">
+      <tr style="text-align:left;background:#f9fafb;border-bottom:1px solid #dde3ea;">
         <th style="padding:0.4rem 0.75rem;color:#1C3D5A;font-weight:600;">Title</th>
         <th style="padding:0.4rem 0.75rem;color:#1C3D5A;font-weight:600;">Agency</th>
         <th style="padding:0.4rem 0.75rem;color:#1C3D5A;font-weight:600;">Supplier</th>
@@ -55,7 +54,7 @@ title: Contracts
   </table>
   </div>
 
-</div>
+</details>
 {% endfor %}
 
 {% else %}
