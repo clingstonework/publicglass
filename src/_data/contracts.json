@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-25T18:17:07Z",
+  "fetched_at": "2026-09-26T17:38:45Z",
   "fy": "2026-27",
   "total": 1275,
   "months": [
@@ -7,7 +7,7 @@
       "month": "2026-09",
       "label": "September 2026",
       "count": 497,
-      "total_value": 560045641.39,
+      "total_value": 559900374.41,
       "contracts": [
         {
           "id": "CN4277004",
