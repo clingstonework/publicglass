@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-11-13T20:47:02Z",
+  "fetched_at": "2026-11-14T18:58:03Z",
   "fy": "2026-27",
   "total": 1937,
   "months": [
@@ -7,7 +7,7 @@
       "month": "2026-11",
       "label": "November 2026",
       "count": 300,
-      "total_value": 373342743.65,
+      "total_value": 372882930.26,
       "contracts": [
         {
           "id": "CN4288502",
@@ -862,18 +862,6 @@
           "end_date": "2027-11-02"
         },
         {
-          "id": "CN4288409",
-          "url_id": "8d8c1a57-cf92-45bb-8b3a-02708607fb54",
-          "title": "Support Services",
-          "agency": "Department of Defence",
-          "supplier": "PAXUS AUSTRALIA PTY LIMITED",
-          "value_aud": 271150.0,
-          "published": "2026-11-12",
-          "month": "2026-11",
-          "start_date": "2026-11-18",
-          "end_date": "2027-06-29"
-        },
-        {
           "id": "CN4286499",
           "url_id": "0e71d5f1-0f82-489a-bd13-60b24ef81f4a",
           "title": "LH - EN8 - Project and Delivery Manager\n\u00a0",
@@ -883,18 +871,6 @@
           "published": "2026-11-03",
           "month": "2026-11",
           "start_date": "2026-10-12",
-          "end_date": "2027-06-29"
-        },
-        {
-          "id": "CN4288410",
-          "url_id": "0c45f768-eb94-4994-afc2-bd20519075c5",
-          "title": "Support Services",
-          "agency": "Department of Defence",
-          "supplier": "WIRRIGAN BUSINESS SERVICES",
-          "value_aud": 262377.5,
-          "published": "2026-11-12",
-          "month": "2026-11",
-          "start_date": "2026-11-17",
           "end_date": "2027-06-29"
         },
         {
@@ -2002,6 +1978,18 @@
           "end_date": "2029-12-30"
         },
         {
+          "id": "CN4288562",
+          "url_id": "81160ecb-0cc1-4bc7-ac1f-f81d8e9fd30a",
+          "title": "Lease Payment October 2026",
+          "agency": "Workplace Gender Equality Agency",
+          "supplier": "CBRE PTY LTD",
+          "value_aud": 61929.12,
+          "published": "2026-11-14",
+          "month": "2026-11",
+          "start_date": "2026-09-22",
+          "end_date": "2026-10-30"
+        },
+        {
           "id": "CN4288039",
           "url_id": "ddcf1cbc-5c3e-434a-a0a0-f2fee3d1f3f9",
           "title": "GPS Receivers",
@@ -2408,6 +2396,18 @@
           "month": "2026-11",
           "start_date": "2026-10-21",
           "end_date": "2026-11-19"
+        },
+        {
+          "id": "CN4286410",
+          "url_id": "f43d0305-74e6-4876-9347-7ce327034209",
+          "title": "Work Health and Safety Services",
+          "agency": "Department of the Prime Minister and Cabinet",
+          "supplier": "Strategium Act Pty Ltd",
+          "value_aud": 35640.0,
+          "published": "2026-11-03",
+          "month": "2026-11",
+          "start_date": "2026-11-01",
+          "end_date": "2027-05-02"
         }
       ]
     },
