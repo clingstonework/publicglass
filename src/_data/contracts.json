@@ -1,13 +1,13 @@
 {
-  "fetched_at": "2026-11-16T23:14:23Z",
+  "fetched_at": "2026-11-17T22:03:48Z",
   "fy": "2026-27",
-  "total": 1935,
+  "total": 1934,
   "months": [
     {
       "month": "2026-11",
       "label": "November 2026",
-      "count": 300,
-      "total_value": 174436144.12,
+      "count": 299,
+      "total_value": 193461729.83,
       "contracts": [
         {
           "id": "CN4287973",
@@ -44,6 +44,30 @@
           "month": "2026-11",
           "start_date": "2026-07-01",
           "end_date": "2031-08-31"
+        },
+        {
+          "id": "CN4289299",
+          "url_id": "b5b4e89a-e920-4dc7-837f-010a30dc8a5b",
+          "title": "Software",
+          "agency": "Department of Finance",
+          "supplier": "VMWARE AUSTRALIA PTY LTD",
+          "value_aud": 7476394.28,
+          "published": "2026-11-17",
+          "month": "2026-11",
+          "start_date": "2026-10-29",
+          "end_date": "2029-10-28"
+        },
+        {
+          "id": "CN4289332",
+          "url_id": "cbba538f-2cb6-4957-b252-f5e86aa739ae",
+          "title": "Information Technology Hardware",
+          "agency": "Department of Industry, Science and Resources",
+          "supplier": "HEWLETT PACKARD AUSTRALIA PTY LTD",
+          "value_aud": 5821079.45,
+          "published": "2026-11-17",
+          "month": "2026-11",
+          "start_date": "2026-11-15",
+          "end_date": "2029-11-10"
         },
         {
           "id": "CN4288029",
@@ -370,6 +394,18 @@
           "end_date": "2028-08-07"
         },
         {
+          "id": "CN4289324",
+          "url_id": "791255cc-2785-4aad-9e97-e2e8183d2e8b",
+          "title": "Temporary Personnel",
+          "agency": "Department of Agriculture, Fisheries and Forestry",
+          "supplier": "TERRACE SERVICES PTY LTD",
+          "value_aud": 483681.0,
+          "published": "2026-11-17",
+          "month": "2026-11",
+          "start_date": "2026-11-18",
+          "end_date": "2027-11-17"
+        },
+        {
           "id": "CN4289223",
           "url_id": "0d9d1995-dc9a-4134-b4c4-4733166d70d5",
           "title": "ICT Contrator",
@@ -404,6 +440,18 @@
           "month": "2026-11",
           "start_date": "2026-12-06",
           "end_date": "2027-12-05"
+        },
+        {
+          "id": "CN4289240",
+          "url_id": "5377ab64-b211-49b4-8450-d98682ce48ad",
+          "title": "ETG - LH - Business Analyst",
+          "agency": "Australian Electoral Commission",
+          "supplier": "RANDSTAD PTY LIMITED",
+          "value_aud": 439399.4,
+          "published": "2026-11-17",
+          "month": "2026-11",
+          "start_date": "2026-11-15",
+          "end_date": "2027-12-30"
         },
         {
           "id": "CN4286549",
@@ -550,6 +598,30 @@
           "end_date": "2028-08-28"
         },
         {
+          "id": "CN4289339",
+          "url_id": "e82e3ea6-fec6-4035-a69e-bbe7790476a9",
+          "title": "labour hire to support the noise insulation program for WSI",
+          "agency": "Department of Infrastructure, Transport, Regional Development, Communications, Sport and the Arts",
+          "supplier": "KARLKA RECRUITING GROUP",
+          "value_aud": 340761.3,
+          "published": "2026-11-17",
+          "month": "2026-11",
+          "start_date": "2026-11-15",
+          "end_date": "2027-06-29"
+        },
+        {
+          "id": "CN4289290",
+          "url_id": "a2495d9e-242e-442c-8867-5d9b470475fa",
+          "title": "Legal Advisor for HDP",
+          "agency": "Department of Finance",
+          "supplier": "Clayton Utz",
+          "value_aud": 335000.0,
+          "published": "2026-11-17",
+          "month": "2026-11",
+          "start_date": "2026-09-23",
+          "end_date": "2027-02-25"
+        },
+        {
           "id": "CN4289193",
           "url_id": "9edaf82d-6320-47b3-be67-2c5ecf791b87",
           "title": "ICT Contractor - LH-07351 - Application Architect",
@@ -598,6 +670,18 @@
           "end_date": "2027-07-30"
         },
         {
+          "id": "CN4289276",
+          "url_id": "23b676b0-dd76-4dc8-99bc-3d4f204d5949",
+          "title": "Electorate Office Lease",
+          "agency": "Department of Finance",
+          "supplier": "Godolphin Investments Pty Ltd",
+          "value_aud": 306674.0,
+          "published": "2026-11-17",
+          "month": "2026-11",
+          "start_date": "2026-10-20",
+          "end_date": "2031-06-29"
+        },
+        {
           "id": "CN4289190",
           "url_id": "7bee2197-2d00-4ea8-8cb8-c6cebef5a2d1",
           "title": "ICT Contractor - LH-07358 - Senior Innovation Software Engineer",
@@ -620,6 +704,30 @@
           "month": "2026-11",
           "start_date": "2026-11-08",
           "end_date": "2027-11-07"
+        },
+        {
+          "id": "CN4289300",
+          "url_id": "038f13ec-2bbc-4dc5-a132-e449a6ca95d4",
+          "title": "Graduate relocation services",
+          "agency": "Department of Finance",
+          "supplier": "MOVE DYNAMICS PTY LTD",
+          "value_aud": 300000.0,
+          "published": "2026-11-17",
+          "month": "2026-11",
+          "start_date": "2026-10-18",
+          "end_date": "2028-02-17"
+        },
+        {
+          "id": "CN4289323",
+          "url_id": "85b11302-98be-458c-bf9a-14007000f05c",
+          "title": "Temporary Personnel",
+          "agency": "Department of Agriculture, Fisheries and Forestry",
+          "supplier": "CONCERT ICT PTY LIMITED",
+          "value_aud": 299871.36,
+          "published": "2026-11-17",
+          "month": "2026-11",
+          "start_date": "2026-12-15",
+          "end_date": "2027-12-12"
         },
         {
           "id": "CN4286488",
@@ -670,6 +778,18 @@
           "end_date": "2027-06-27"
         },
         {
+          "id": "CN4289283",
+          "url_id": "ce97f5c2-0dfc-4e4d-9843-12e8f316a95b",
+          "title": "Support for Gov AI Program",
+          "agency": "Department of Finance",
+          "supplier": "ELYSIUM DIGITAL PTY LTD",
+          "value_aud": 274560.0,
+          "published": "2026-11-17",
+          "month": "2026-11",
+          "start_date": "2026-10-19",
+          "end_date": "2027-03-30"
+        },
+        {
           "id": "CN4286459",
           "url_id": "c5c1c968-9e47-44c8-96f0-a2bd6b4eeb3a",
           "title": "ICT Labour Hire",
@@ -691,6 +811,18 @@
           "published": "2026-11-03",
           "month": "2026-11",
           "start_date": "2026-10-12",
+          "end_date": "2027-06-29"
+        },
+        {
+          "id": "CN4289255",
+          "url_id": "1f5f36e0-fd14-4270-8d28-c8a816b9860b",
+          "title": "ICT Contractor Services",
+          "agency": "Department of Home Affairs",
+          "supplier": "ACE INFO SYSTEMS PTY LTD",
+          "value_aud": 263158.5,
+          "published": "2026-11-17",
+          "month": "2026-11",
+          "start_date": "2026-11-29",
           "end_date": "2027-06-29"
         },
         {
@@ -766,6 +898,18 @@
           "end_date": "2027-06-29"
         },
         {
+          "id": "CN4289325",
+          "url_id": "b1c1db62-1179-4203-b945-65a03a8ebc20",
+          "title": "Traveller and Biosecurity Awareness Campaign",
+          "agency": "Department of Agriculture, Fisheries and Forestry",
+          "supplier": "UNIVERSAL MCCANN",
+          "value_aud": 236500.0,
+          "published": "2026-11-17",
+          "month": "2026-11",
+          "start_date": "2026-11-28",
+          "end_date": "2027-02-12"
+        },
+        {
           "id": "CN4287966",
           "url_id": "969790b3-c34c-4c5f-a1a6-992ee3b244de",
           "title": "ICT Contractor Services",
@@ -790,6 +934,18 @@
           "end_date": "2027-06-29"
         },
         {
+          "id": "CN4287075",
+          "url_id": "3b07c169-8372-4ce9-85c2-079db2823395",
+          "title": "ICT Professional Services",
+          "agency": "Australian Bureau of Statistics",
+          "supplier": "Pegasystems Limited",
+          "value_aud": 219450.0,
+          "published": "2026-11-17",
+          "month": "2026-11",
+          "start_date": "2026-11-03",
+          "end_date": "2027-06-29"
+        },
+        {
           "id": "CN4286419",
           "url_id": "6218110c-9d0f-4e5a-83b8-641721e47e38",
           "title": "Atlassian Licensing 2026",
@@ -800,6 +956,18 @@
           "month": "2026-11",
           "start_date": "2026-10-08",
           "end_date": "2027-10-08"
+        },
+        {
+          "id": "CN4289267",
+          "url_id": "fc765b91-3c74-487b-b60f-a1af14aa2bff",
+          "title": "Labour Hire - ",
+          "agency": "Administrative Review Tribunal",
+          "supplier": "TOTAL RESOURCE SOLUTIONS (TRS) P/L",
+          "value_aud": 208661.76,
+          "published": "2026-11-17",
+          "month": "2026-11",
+          "start_date": "2026-11-27",
+          "end_date": "2027-06-29"
         },
         {
           "id": "CN4289232",
@@ -814,6 +982,18 @@
           "end_date": "2027-03-11"
         },
         {
+          "id": "CN4289282",
+          "url_id": "a453d7ce-1fd3-4d02-b147-a31c66a54130",
+          "title": "Legal Services",
+          "agency": "Department of Finance",
+          "supplier": "HWL Ebsworth Lawyers",
+          "value_aud": 198537.3,
+          "published": "2026-11-17",
+          "month": "2026-11",
+          "start_date": "2026-10-07",
+          "end_date": "2027-10-06"
+        },
+        {
           "id": "CN4289214",
           "url_id": "6b9ab043-0d4f-4f39-a4ea-7eac1c40fe91",
           "title": "Senior Outreach Officer",
@@ -824,6 +1004,18 @@
           "month": "2026-11",
           "start_date": "2026-11-08",
           "end_date": "2027-05-06"
+        },
+        {
+          "id": "CN4289321",
+          "url_id": "9ac17f2e-1bcf-4599-8289-091ccf584a73",
+          "title": "Monthly application support",
+          "agency": "Administrative Review Tribunal",
+          "supplier": "Iconic Holdings Pty Ltd",
+          "value_aud": 182952.0,
+          "published": "2026-11-17",
+          "month": "2026-11",
+          "start_date": "2026-11-01",
+          "end_date": "2029-10-31"
         },
         {
           "id": "CN4286418",
@@ -850,6 +1042,30 @@
           "end_date": "2027-04-30"
         },
         {
+          "id": "CN4289328",
+          "url_id": "13e18b33-26cd-4093-b628-7806d900599d",
+          "title": "Expert Advisory Group",
+          "agency": "Department of Agriculture, Fisheries and Forestry",
+          "supplier": "DEPARTMENT OF REGIONAL NSW",
+          "value_aud": 167200.0,
+          "published": "2026-11-17",
+          "month": "2026-11",
+          "start_date": "2026-11-10",
+          "end_date": "2029-04-30"
+        },
+        {
+          "id": "CN4289261",
+          "url_id": "98a96112-35d5-4196-b8dc-c7b48072c646",
+          "title": "Legal Services",
+          "agency": "Department of Home Affairs",
+          "supplier": "CLAYTON UTZ",
+          "value_aud": 158108.3,
+          "published": "2026-11-17",
+          "month": "2026-11",
+          "start_date": "2026-11-08",
+          "end_date": "2028-01-30"
+        },
+        {
           "id": "CN4286456",
           "url_id": "e0d84191-e21c-4f17-abaa-45d56a590be2",
           "title": "Health Technology Assessment",
@@ -874,6 +1090,30 @@
           "end_date": "2027-07-08"
         },
         {
+          "id": "CN4289254",
+          "url_id": "ad283c0d-4dbd-4501-a97b-afb359b896bc",
+          "title": "Long Term Lease Vehicle",
+          "agency": "Department of Home Affairs",
+          "supplier": "SG FLEET AUSTRALIA PTY LIMITED",
+          "value_aud": 139213.43,
+          "published": "2026-11-17",
+          "month": "2026-11",
+          "start_date": "2026-06-22",
+          "end_date": "2030-06-21"
+        },
+        {
+          "id": "CN4289253",
+          "url_id": "10541e43-fce6-4edd-8fba-e3f81248b775",
+          "title": "Long Term Lease Vehicle",
+          "agency": "Department of Home Affairs",
+          "supplier": "SG FLEET AUSTRALIA PTY LIMITED",
+          "value_aud": 139213.43,
+          "published": "2026-11-17",
+          "month": "2026-11",
+          "start_date": "2026-06-22",
+          "end_date": "2030-06-21"
+        },
+        {
           "id": "CN4288048",
           "url_id": "e2ad4c74-25d6-40ba-82eb-8dc4bf676f34",
           "title": "Electrical Components",
@@ -884,6 +1124,18 @@
           "month": "2026-11",
           "start_date": "2026-10-25",
           "end_date": "2026-11-19"
+        },
+        {
+          "id": "CN4289259",
+          "url_id": "2c0660a0-d8a6-4eca-a67e-265e3cb48f84",
+          "title": "Long Term Lease Vehicle",
+          "agency": "Department of Home Affairs",
+          "supplier": "SG FLEET AUSTRALIA PTY LIMITED",
+          "value_aud": 129522.65,
+          "published": "2026-11-17",
+          "month": "2026-11",
+          "start_date": "2026-06-08",
+          "end_date": "2030-06-08"
         },
         {
           "id": "CN4289212",
@@ -919,6 +1171,18 @@
           "published": "2026-11-03",
           "month": "2026-11",
           "start_date": "2026-10-29",
+          "end_date": "2027-06-29"
+        },
+        {
+          "id": "CN4289263",
+          "url_id": "ac711867-b24d-4fbb-bac9-02d4f5ea91b8",
+          "title": "LH - ETG - Project Officer",
+          "agency": "Australian Electoral Commission",
+          "supplier": "ETHOS BEATHCHAPMAN AUSTRALIA PTY LTD",
+          "value_aud": 117708.8,
+          "published": "2026-11-17",
+          "month": "2026-11",
+          "start_date": "2026-11-15",
           "end_date": "2027-06-29"
         },
         {
@@ -982,6 +1246,18 @@
           "end_date": "2026-11-25"
         },
         {
+          "id": "CN4289258",
+          "url_id": "7330dac3-a2a0-4774-986d-b8039b7245d1",
+          "title": "IT Software Procurement",
+          "agency": "Department of Home Affairs",
+          "supplier": "QUANTUM TECHNOLOGY PTY LTD",
+          "value_aud": 103824.0,
+          "published": "2026-11-17",
+          "month": "2026-11",
+          "start_date": "2026-10-31",
+          "end_date": "2028-10-30"
+        },
+        {
           "id": "CN4286421",
           "url_id": "e4a4900f-1400-4ca9-9da5-749c16ff0076",
           "title": "Bronze plaque refurbishment for SE Qld",
@@ -992,6 +1268,18 @@
           "month": "2026-11",
           "start_date": "2026-10-22",
           "end_date": "2027-10-21"
+        },
+        {
+          "id": "CN4289249",
+          "url_id": "24e7df1e-086e-4da2-99d6-d6b96210e729",
+          "title": "NSW Onsite Facilities Coordinator",
+          "agency": "Department of Home Affairs",
+          "supplier": "CUSHMAN & WAKEFIELD PTY LTD",
+          "value_aud": 103181.76,
+          "published": "2026-11-17",
+          "month": "2026-11",
+          "start_date": "2026-11-09",
+          "end_date": "2027-06-29"
         },
         {
           "id": "CN4286531",
@@ -1030,6 +1318,18 @@
           "end_date": "2027-01-14"
         },
         {
+          "id": "CN4289348",
+          "url_id": "596cc67f-b066-4f63-9d6b-384f1242e6b3",
+          "title": "Conservation services - Art Collections",
+          "agency": "Department of Parliamentary Services",
+          "supplier": "University of Melbourne",
+          "value_aud": 95843.0,
+          "published": "2026-11-17",
+          "month": "2026-11",
+          "start_date": "2026-11-03",
+          "end_date": "2029-11-02"
+        },
+        {
           "id": "CN4287970",
           "url_id": "8bdca324-b06c-4b63-9b64-9539cde8e81c",
           "title": "Long Term Lease Vehicle",
@@ -1064,6 +1364,18 @@
           "month": "2026-11",
           "start_date": "2026-05-07",
           "end_date": "2030-05-06"
+        },
+        {
+          "id": "CN4289256",
+          "url_id": "2324c51e-86f5-4816-b082-b5d512b428eb",
+          "title": "Long Term Lease Vehicle",
+          "agency": "Department of Home Affairs",
+          "supplier": "SG FLEET AUSTRALIA PTY LIMITED",
+          "value_aud": 90810.18,
+          "published": "2026-11-17",
+          "month": "2026-11",
+          "start_date": "2026-11-04",
+          "end_date": "2029-11-03"
         },
         {
           "id": "CN4288031",
@@ -1114,6 +1426,18 @@
           "end_date": "2027-04-13"
         },
         {
+          "id": "CN4289246",
+          "url_id": "83817373-a92c-4320-bcae-ff273165bc42",
+          "title": "Long Term Lease Vehicle",
+          "agency": "Department of Home Affairs",
+          "supplier": "SG FLEET AUSTRALIA PTY LIMITED",
+          "value_aud": 86176.67,
+          "published": "2026-11-17",
+          "month": "2026-11",
+          "start_date": "2026-09-27",
+          "end_date": "2030-09-26"
+        },
+        {
           "id": "CN4286495",
           "url_id": "f37a1f6e-8b65-4528-bc7b-cdf8b85ad1b1",
           "title": "Temporary Personnel",
@@ -1138,6 +1462,18 @@
           "end_date": "2027-04-29"
         },
         {
+          "id": "CN4289247",
+          "url_id": "06a3caa9-e38b-42e0-ab6e-c2f337f91c16",
+          "title": "Variable Funding Model Review",
+          "agency": "Department of Home Affairs",
+          "supplier": "CALLIDA PTY LTD",
+          "value_aud": 84960.51,
+          "published": "2026-11-17",
+          "month": "2026-11",
+          "start_date": "2026-11-10",
+          "end_date": "2027-05-09"
+        },
+        {
           "id": "CN4288036",
           "url_id": "37f3ab48-b910-4d6f-af38-c923f9147369",
           "title": "Development Services",
@@ -1148,6 +1484,18 @@
           "month": "2026-11",
           "start_date": "2027-01-03",
           "end_date": "2027-05-30"
+        },
+        {
+          "id": "CN4289262",
+          "url_id": "7cf6bec9-3228-4ceb-b1ef-a97428f236ae",
+          "title": "Legal Services",
+          "agency": "Department of Home Affairs",
+          "supplier": "MADDOCKS",
+          "value_aud": 82940.0,
+          "published": "2026-11-17",
+          "month": "2026-11",
+          "start_date": "2026-11-03",
+          "end_date": "2027-11-01"
         },
         {
           "id": "CN4288050",
@@ -1172,6 +1520,30 @@
           "month": "2026-11",
           "start_date": "2026-05-27",
           "end_date": "2030-05-26"
+        },
+        {
+          "id": "CN4289298",
+          "url_id": "d42067bd-6e03-4d65-a561-b424de218d2c",
+          "title": "Temporary Personal Services",
+          "agency": "Department of Finance",
+          "supplier": "Hays Personnel Services",
+          "value_aud": 80037.75,
+          "published": "2026-11-17",
+          "month": "2026-11",
+          "start_date": "2026-11-03",
+          "end_date": "2027-05-02"
+        },
+        {
+          "id": "CN4289281",
+          "url_id": "f17dc851-81e1-4edc-b478-4149cf5e71e8",
+          "title": "Temporary Personal Services",
+          "agency": "Department of Finance",
+          "supplier": "Hays Personnel Services",
+          "value_aud": 80037.75,
+          "published": "2026-11-17",
+          "month": "2026-11",
+          "start_date": "2026-11-03",
+          "end_date": "2027-05-02"
         },
         {
           "id": "CN4286501",
@@ -1210,6 +1582,18 @@
           "end_date": "2027-06-29"
         },
         {
+          "id": "CN4289251",
+          "url_id": "c58a7de9-e169-48b7-a7fb-731601ac48df",
+          "title": "Long Term Lease Vehicle",
+          "agency": "Department of Home Affairs",
+          "supplier": "SG FLEET AUSTRALIA PTY LIMITED",
+          "value_aud": 79592.6,
+          "published": "2026-11-17",
+          "month": "2026-11",
+          "start_date": "2026-10-11",
+          "end_date": "2030-10-10"
+        },
+        {
           "id": "CN4286530",
           "url_id": "140ea936-e619-44ee-a315-0106238b03cb",
           "title": "Labour hire",
@@ -1220,6 +1604,18 @@
           "month": "2026-11",
           "start_date": "2026-10-18",
           "end_date": "2027-02-25"
+        },
+        {
+          "id": "CN4289248",
+          "url_id": "692b83ab-bd83-422f-9aff-b197905d92f6",
+          "title": "Long Term Lease Vehicle",
+          "agency": "Department of Home Affairs",
+          "supplier": "SG FLEET AUSTRALIA PTY LIMITED",
+          "value_aud": 78504.39,
+          "published": "2026-11-17",
+          "month": "2026-11",
+          "start_date": "2026-10-19",
+          "end_date": "2030-10-18"
         },
         {
           "id": "CN4288020",
@@ -1294,6 +1690,18 @@
           "end_date": "2027-12-21"
         },
         {
+          "id": "CN4289245",
+          "url_id": "24dbb31e-0183-4958-99a9-e2dd342c7735",
+          "title": "Long Term Lease Vehicle",
+          "agency": "Department of Home Affairs",
+          "supplier": "SG FLEET AUSTRALIA PTY LIMITED",
+          "value_aud": 68217.89,
+          "published": "2026-11-17",
+          "month": "2026-11",
+          "start_date": "2026-07-19",
+          "end_date": "2030-07-18"
+        },
+        {
           "id": "CN4287985",
           "url_id": "e3c34818-cf0a-454f-8a68-648a35e597ca",
           "title": "Microsoft 365 Storage (VSA6)",
@@ -1306,16 +1714,16 @@
           "end_date": "2031-06-29"
         },
         {
-          "id": "CN4289102",
-          "url_id": "d7b50e85-2587-4083-8aa3-6f231f5f3f4b",
-          "title": "Marine Components",
-          "agency": "Department of Defence",
-          "supplier": "Metal Manufactures Pty Limited T/A MM Defence",
-          "value_aud": 66440.0,
-          "published": "2026-11-16",
+          "id": "CN4289244",
+          "url_id": "1d08eedc-b26a-42c2-bb5c-a61d06e270d1",
+          "title": "Long Term Lease Vehicle",
+          "agency": "Department of Home Affairs",
+          "supplier": "SG FLEET AUSTRALIA PTY LIMITED",
+          "value_aud": 65773.93,
+          "published": "2026-11-17",
           "month": "2026-11",
-          "start_date": "2026-10-27",
-          "end_date": "2027-01-07"
+          "start_date": "2026-11-01",
+          "end_date": "2029-10-31"
         },
         {
           "id": "CN4287997",
@@ -1426,6 +1834,18 @@
           "end_date": "2029-11-08"
         },
         {
+          "id": "CN4289336",
+          "url_id": "8c472f74-c41e-45d6-9b05-89c6d34a128b",
+          "title": "Building construction and support and maintenance and repair services",
+          "agency": "Department of Infrastructure, Transport, Regional Development, Communications, Sport and the Arts",
+          "supplier": "GP SERVICES GARRY GEORGE PARSONS",
+          "value_aud": 63658.75,
+          "published": "2026-11-17",
+          "month": "2026-11",
+          "start_date": "2026-11-09",
+          "end_date": "2027-01-28"
+        },
+        {
           "id": "CN4287990",
           "url_id": "dffabb47-460e-4631-a193-61419792417d",
           "title": "Access Control System",
@@ -1436,6 +1856,18 @@
           "month": "2026-11",
           "start_date": "2026-10-28",
           "end_date": "2027-06-29"
+        },
+        {
+          "id": "CN4289326",
+          "url_id": "0889b9ed-a997-465b-bd12-842f856c98b2",
+          "title": "Residential Lease",
+          "agency": "Department of Agriculture, Fisheries and Forestry",
+          "supplier": "SHARON MORGANTI",
+          "value_aud": 62514.29,
+          "published": "2026-11-17",
+          "month": "2026-11",
+          "start_date": "2027-01-13",
+          "end_date": "2028-07-12"
         },
         {
           "id": "CN4286565",
@@ -1510,6 +1942,18 @@
           "end_date": "2026-11-26"
         },
         {
+          "id": "CN4289257",
+          "url_id": "56d8148a-6838-480e-96c3-23bb6e73663a",
+          "title": "Long Term Lease Vehicle",
+          "agency": "Department of Home Affairs",
+          "supplier": "SG FLEET AUSTRALIA PTY LIMITED",
+          "value_aud": 58770.3,
+          "published": "2026-11-17",
+          "month": "2026-11",
+          "start_date": "2026-07-27",
+          "end_date": "2030-07-26"
+        },
+        {
           "id": "CN4286462",
           "url_id": "cb03fcab-1c8f-495e-994d-2140375caf35",
           "title": "Specialist Multicultural Services",
@@ -1520,6 +1964,30 @@
           "month": "2026-11",
           "start_date": "2026-10-28",
           "end_date": "2027-06-29"
+        },
+        {
+          "id": "CN4289243",
+          "url_id": "109c5869-8347-450e-9ed8-d8ea63bd3cad",
+          "title": "IT Software Procurmement",
+          "agency": "Department of Home Affairs",
+          "supplier": "CDTS AUSTRALIA PTY LTD",
+          "value_aud": 54560.0,
+          "published": "2026-11-17",
+          "month": "2026-11",
+          "start_date": "2026-11-15",
+          "end_date": "2027-06-29"
+        },
+        {
+          "id": "CN4289250",
+          "url_id": "fa529c60-611a-4f7c-8420-78b7188b8877",
+          "title": "Venue hire and catering for Leadership Roadshow",
+          "agency": "Department of Home Affairs",
+          "supplier": "CANBERRA SOUTHERN CROSS CLUB LIMITE",
+          "value_aud": 53500.0,
+          "published": "2026-11-17",
+          "month": "2026-11",
+          "start_date": "2027-02-23",
+          "end_date": "2027-03-17"
         },
         {
           "id": "CN4286469",
@@ -1534,18 +2002,6 @@
           "end_date": "2027-01-14"
         },
         {
-          "id": "CN4289129",
-          "url_id": "df26121c-d99e-4093-9bdc-881ba4373bb7",
-          "title": "Computer Equipment",
-          "agency": "Department of Defence",
-          "supplier": "KEYSIGHT TECHNOLOGIES AUSTRALIA PTY LTD",
-          "value_aud": 52325.85,
-          "published": "2026-11-16",
-          "month": "2026-11",
-          "start_date": "2026-11-04",
-          "end_date": "2027-03-30"
-        },
-        {
           "id": "CN4287975",
           "url_id": "af69c0c5-8c69-479f-a7af-d034822abb36",
           "title": "newspaper advertising",
@@ -1556,6 +2012,18 @@
           "month": "2026-11",
           "start_date": "2026-09-14",
           "end_date": "2026-10-14"
+        },
+        {
+          "id": "CN4289252",
+          "url_id": "76d2bdc0-000b-44db-8143-845c737350bd",
+          "title": "Long Term Lease Vehicle",
+          "agency": "Department of Home Affairs",
+          "supplier": "SG FLEET AUSTRALIA PTY LIMITED",
+          "value_aud": 50168.39,
+          "published": "2026-11-17",
+          "month": "2026-11",
+          "start_date": "2026-05-25",
+          "end_date": "2030-05-24"
         },
         {
           "id": "CN4288055",
@@ -1628,6 +2096,18 @@
           "month": "2026-11",
           "start_date": "2026-11-04",
           "end_date": "2026-12-30"
+        },
+        {
+          "id": "CN4289331",
+          "url_id": "fb5b78dd-d2d3-48a1-9276-8b7c54aa78a2",
+          "title": "Engagement of engineering services to assist with the design and scoping for the Lindfield Like for Like Rolling AHU Upgrades.",
+          "agency": "Department of Industry, Science and Resources",
+          "supplier": "ECHELON CONSULTING AND TRAINING",
+          "value_aud": 42900.0,
+          "published": "2026-11-17",
+          "month": "2026-11",
+          "start_date": "2026-11-15",
+          "end_date": "2028-06-29"
         },
         {
           "id": "CN4286420",
@@ -1714,16 +2194,28 @@
           "end_date": "2026-11-29"
         },
         {
-          "id": "CN4289103",
-          "url_id": "7dae5f65-ebe4-4f13-8877-8bb4cc50b489",
-          "title": "Renewal of Maintenance and Support",
-          "agency": "Department of Defence",
-          "supplier": "BAE SYSTEMS DIGITAL INTELLIGENCE PTY LIMITED",
-          "value_aud": 37991.8,
-          "published": "2026-11-16",
+          "id": "CN4289340",
+          "url_id": "727ea517-cd71-44d2-ac9e-f9e7908cf379",
+          "title": "Flooring and painting of unit 6B Drumsite - Christmas Island",
+          "agency": "Department of Infrastructure, Transport, Regional Development, Communications, Sport and the Arts",
+          "supplier": "CHRISTMAS ISLAND WATSTAR PTY LTD T/A GREGORY CI MAINTENANCE (GCIM)",
+          "value_aud": 38248.1,
+          "published": "2026-11-17",
           "month": "2026-11",
-          "start_date": "2026-10-31",
-          "end_date": "2027-10-30"
+          "start_date": "2026-11-01",
+          "end_date": "2027-01-30"
+        },
+        {
+          "id": "CN4289242",
+          "url_id": "e4c52cac-d279-4331-9e2b-e21d8111cefa",
+          "title": "Risk Management Advisory Services",
+          "agency": "Australian Competition and Consumer Commission",
+          "supplier": "Agilient Pty Ltd",
+          "value_aud": 37400.0,
+          "published": "2026-11-17",
+          "month": "2026-11",
+          "start_date": "2026-10-12",
+          "end_date": "2026-11-12"
         },
         {
           "id": "CN4286534",
@@ -1748,18 +2240,6 @@
           "month": "2026-11",
           "start_date": "2026-10-21",
           "end_date": "2027-10-03"
-        },
-        {
-          "id": "CN4289104",
-          "url_id": "432e5520-304c-4987-9740-bd02d408b5af",
-          "title": "Training Services",
-          "agency": "Department of Defence",
-          "supplier": "SPECIAL BROADCASTING SERVICE CORPORATION",
-          "value_aud": 35986.5,
-          "published": "2026-11-16",
-          "month": "2026-11",
-          "start_date": "2026-07-30",
-          "end_date": "2027-06-29"
         },
         {
           "id": "CN4288032",
@@ -1796,6 +2276,42 @@
           "month": "2026-11",
           "start_date": "2026-10-05",
           "end_date": "2028-11-04"
+        },
+        {
+          "id": "CN4289260",
+          "url_id": "0ad97d28-6ffd-4957-aa0a-217f2a9b623d",
+          "title": "IT Software Procurement",
+          "agency": "Department of Home Affairs",
+          "supplier": "DIGITAL TRANSFORMATION AGENCY",
+          "value_aud": 35000.0,
+          "published": "2026-11-17",
+          "month": "2026-11",
+          "start_date": "2026-12-31",
+          "end_date": "2027-12-30"
+        },
+        {
+          "id": "CN4289351",
+          "url_id": "2539b97e-301d-4b9a-b9e1-b99faa8ea59f",
+          "title": "Electronic Reference Resource - Europa World Plus",
+          "agency": "Department of Parliamentary Services",
+          "supplier": "Taylor and Francis Group",
+          "value_aud": 34774.1,
+          "published": "2026-11-17",
+          "month": "2026-11",
+          "start_date": "2026-10-29",
+          "end_date": "2029-10-31"
+        },
+        {
+          "id": "CN4289335",
+          "url_id": "2a122bca-da07-4cc0-aabf-99d4e32520aa",
+          "title": "Relocation of Personal Effects-HV/LV Electrician",
+          "agency": "Department of Infrastructure, Transport, Regional Development, Communications, Sport and the Arts",
+          "supplier": "GRACE REMOVALS (AUSTRALIA) PTY LTD",
+          "value_aud": 34155.0,
+          "published": "2026-11-17",
+          "month": "2026-11",
+          "start_date": "2026-11-16",
+          "end_date": "2027-06-29"
         },
         {
           "id": "CN4288057",
@@ -1858,64 +2374,16 @@
           "end_date": "2027-01-28"
         },
         {
-          "id": "CN4289153",
-          "url_id": "c70e6ae4-f104-41e6-9d56-94b0ce3744c9",
-          "title": "Port Services",
-          "agency": "Department of Defence",
-          "supplier": "QUBE PORTS PTY LTD",
-          "value_aud": 30000.0,
-          "published": "2026-11-16",
+          "id": "CN4289346",
+          "url_id": "3429240f-dc1b-4d1a-8519-cdf24daf2f20",
+          "title": "Legal Services",
+          "agency": "National Health and Medical Research Council",
+          "supplier": "Sparke Helmore",
+          "value_aud": 31509.99,
+          "published": "2026-11-17",
           "month": "2026-11",
-          "start_date": "2026-11-01",
-          "end_date": "2026-11-09"
-        },
-        {
-          "id": "CN4289119",
-          "url_id": "0ec7affa-45d5-4885-ba75-e64147cc0269",
-          "title": "Transport Services",
-          "agency": "Department of Defence",
-          "supplier": "COACH CHARTERS AUSTRALIA PTY LTD",
-          "value_aud": 29964.0,
-          "published": "2026-11-16",
-          "month": "2026-11",
-          "start_date": "2026-10-31",
-          "end_date": "2026-11-29"
-        },
-        {
-          "id": "CN4289120",
-          "url_id": "24577e9d-58c4-4d9c-ac27-2c034ed06452",
-          "title": "Transport Services",
-          "agency": "Department of Defence",
-          "supplier": "COACH CHARTERS AUSTRALIA PTY LTD",
-          "value_aud": 29964.0,
-          "published": "2026-11-16",
-          "month": "2026-11",
-          "start_date": "2026-10-31",
-          "end_date": "2026-11-29"
-        },
-        {
-          "id": "CN4289170",
-          "url_id": "0a440b72-8a7c-48fb-9812-f101a6dda718",
-          "title": "Training Support Services",
-          "agency": "Department of Defence",
-          "supplier": "JOEL PARK TRAINING LLC",
-          "value_aud": 29400.63,
-          "published": "2026-11-16",
-          "month": "2026-11",
-          "start_date": "2026-10-18",
-          "end_date": "2026-10-22"
-        },
-        {
-          "id": "CN4289167",
-          "url_id": "5e66e922-ccd0-46b0-a39c-bb174276ec59",
-          "title": "Storage Services",
-          "agency": "Department of Defence",
-          "supplier": "MAZDEX PTY LTD",
-          "value_aud": 27720.0,
-          "published": "2026-11-16",
-          "month": "2026-11",
-          "start_date": "2026-10-21",
-          "end_date": "2027-06-29"
+          "start_date": "2026-11-05",
+          "end_date": "2026-12-23"
         },
         {
           "id": "CN4288028",
@@ -1940,474 +2408,6 @@
           "month": "2026-11",
           "start_date": "2026-10-20",
           "end_date": "2026-12-30"
-        },
-        {
-          "id": "CN4287994",
-          "url_id": "8090ade8-01da-4964-ac8a-3fabdb9768c5",
-          "title": "Electronic Devices",
-          "agency": "Department of Defence",
-          "supplier": "EQUANS AXIMA AUSTRALIA PTY LTD",
-          "value_aud": 26828.84,
-          "published": "2026-11-10",
-          "month": "2026-11",
-          "start_date": "2026-11-08",
-          "end_date": "2027-05-30"
-        },
-        {
-          "id": "CN4288021",
-          "url_id": "2260756e-6244-43e2-a7e4-07c9f7c6182e",
-          "title": "Equipment Maintenance",
-          "agency": "Department of Defence",
-          "supplier": "APOLLO AUSTRALIA PTY LTD",
-          "value_aud": 26730.0,
-          "published": "2026-11-10",
-          "month": "2026-11",
-          "start_date": "2026-10-28",
-          "end_date": "2027-01-19"
-        },
-        {
-          "id": "CN4288018",
-          "url_id": "d0223500-a4f8-4462-8dbb-7b18972f79a3",
-          "title": "Watercraft Spare Parts",
-          "agency": "Department of Defence",
-          "supplier": "BEAVER ENGINEERING PTY LTD",
-          "value_aud": 26712.4,
-          "published": "2026-11-10",
-          "month": "2026-11",
-          "start_date": "2026-10-29",
-          "end_date": "2027-01-27"
-        },
-        {
-          "id": "CN4288027",
-          "url_id": "3fcfd203-a81b-4e17-92f4-547ece9781f3",
-          "title": "Equipment Maintenance",
-          "agency": "Department of Defence",
-          "supplier": "AEROTECH ATE LTD",
-          "value_aud": 26546.92,
-          "published": "2026-11-10",
-          "month": "2026-11",
-          "start_date": "2026-10-22",
-          "end_date": "2027-02-27"
-        },
-        {
-          "id": "CN4288024",
-          "url_id": "eb1a6589-3746-4e3a-9e60-950e964516f9",
-          "title": "Vehicle Maintenance",
-          "agency": "Department of Defence",
-          "supplier": "HAULMARK TRAILERS (AUSTRALIA) PTY  LTD",
-          "value_aud": 26540.12,
-          "published": "2026-11-10",
-          "month": "2026-11",
-          "start_date": "2026-10-25",
-          "end_date": "2026-11-29"
-        },
-        {
-          "id": "CN4289132",
-          "url_id": "42e8ee74-aed5-45e1-bd28-ea221cd4ada1",
-          "title": "Vehicle Repair Services",
-          "agency": "Department of Defence",
-          "supplier": "THE TRUSTEE FOR P & B JEWSON FAMILY TRUST",
-          "value_aud": 26400.0,
-          "published": "2026-11-16",
-          "month": "2026-11",
-          "start_date": "2026-11-04",
-          "end_date": "2026-12-30"
-        },
-        {
-          "id": "CN4288017",
-          "url_id": "18f3d3e7-1763-4f46-bb71-b49a5df105b2",
-          "title": "Training Services",
-          "agency": "Department of Defence",
-          "supplier": "University of the South Pacific",
-          "value_aud": 26341.33,
-          "published": "2026-11-10",
-          "month": "2026-11",
-          "start_date": "2026-11-01",
-          "end_date": "2027-01-30"
-        },
-        {
-          "id": "CN4288019",
-          "url_id": "5185a69c-7f64-460a-8dc3-5804a726dea3",
-          "title": "Hose Assemblies",
-          "agency": "Department of Defence",
-          "supplier": "MONZ AVIATION GSE PTY LTD",
-          "value_aud": 26224.55,
-          "published": "2026-11-10",
-          "month": "2026-11",
-          "start_date": "2026-10-29",
-          "end_date": "2026-12-21"
-        },
-        {
-          "id": "CN4288047",
-          "url_id": "9a32d670-7859-4b1f-85d7-4c3be9c7e747",
-          "title": "Freight Services",
-          "agency": "Department of Defence",
-          "supplier": "NTSS SERVICES PTY LTD",
-          "value_aud": 26180.0,
-          "published": "2026-11-10",
-          "month": "2026-11",
-          "start_date": "2026-09-30",
-          "end_date": "2026-11-29"
-        },
-        {
-          "id": "CN4288026",
-          "url_id": "5eaf7701-4b9f-4a23-bb5e-9546fe54f9cb",
-          "title": "Watercraft Maintenance",
-          "agency": "Department of Defence",
-          "supplier": "MALBAR MARINE ELECTRICS PTY LTD",
-          "value_aud": 25542.0,
-          "published": "2026-11-10",
-          "month": "2026-11",
-          "start_date": "2026-10-25",
-          "end_date": "2026-12-30"
-        },
-        {
-          "id": "CN4288023",
-          "url_id": "5ef53670-7d82-441e-8c83-05642c8bb7b4",
-          "title": "Storage Cases",
-          "agency": "Department of Defence",
-          "supplier": "EOS SPACE SYSTEMS PTY LTD",
-          "value_aud": 25474.83,
-          "published": "2026-11-10",
-          "month": "2026-11",
-          "start_date": "2026-10-29",
-          "end_date": "2026-11-26"
-        },
-        {
-          "id": "CN4288025",
-          "url_id": "3a7d0972-3739-4516-951a-d971bd554c90",
-          "title": "Equipment Maintenance",
-          "agency": "Department of Defence",
-          "supplier": "BALE DEFENCE ENGINEERING SYSTEMS PTY LTD",
-          "value_aud": 25459.64,
-          "published": "2026-11-10",
-          "month": "2026-11",
-          "start_date": "2026-10-25",
-          "end_date": "2026-11-29"
-        },
-        {
-          "id": "CN4288009",
-          "url_id": "a9a8f1ff-817d-44da-81d0-60adf7700206",
-          "title": "Electronic Hardware",
-          "agency": "Department of Defence",
-          "supplier": "QIRX PTY LTD",
-          "value_aud": 25427.6,
-          "published": "2026-11-10",
-          "month": "2026-11",
-          "start_date": "2026-11-05",
-          "end_date": "2026-12-03"
-        },
-        {
-          "id": "CN4286507",
-          "url_id": "1d4f369e-69f1-4f09-88c3-5933404b5bab",
-          "title": "Contractor",
-          "agency": "Department of Infrastructure, Transport, Regional Development, Communications, Sport and the Arts",
-          "supplier": "HAYS SPECIALIST RECRUITMENT (AUST)",
-          "value_aud": 25413.75,
-          "published": "2026-11-03",
-          "month": "2026-11",
-          "start_date": "2026-11-01",
-          "end_date": "2026-12-10"
-        },
-        {
-          "id": "CN4286505",
-          "url_id": "4fb03675-73d5-40e4-959b-706ec3c4ebbd",
-          "title": "Contractor",
-          "agency": "Department of Infrastructure, Transport, Regional Development, Communications, Sport and the Arts",
-          "supplier": "HAYS SPECIALIST RECRUITMENT (AUST)",
-          "value_aud": 25413.75,
-          "published": "2026-11-03",
-          "month": "2026-11",
-          "start_date": "2026-11-02",
-          "end_date": "2026-12-10"
-        },
-        {
-          "id": "CN4286506",
-          "url_id": "df619674-9057-4481-a8de-2284d74e08e4",
-          "title": "Contractor",
-          "agency": "Department of Infrastructure, Transport, Regional Development, Communications, Sport and the Arts",
-          "supplier": "HAYS SPECIALIST RECRUITMENT (AUST)",
-          "value_aud": 25413.75,
-          "published": "2026-11-03",
-          "month": "2026-11",
-          "start_date": "2026-11-01",
-          "end_date": "2026-12-10"
-        },
-        {
-          "id": "CN4288011",
-          "url_id": "79bd70e4-b28a-4ecf-95fa-7b38fb54f8a8",
-          "title": "Electronic Spare Parts",
-          "agency": "Department of Defence",
-          "supplier": "DATA#3 LIMITED. DATA 3 GROUP",
-          "value_aud": 25143.8,
-          "published": "2026-11-10",
-          "month": "2026-11",
-          "start_date": "2026-10-27",
-          "end_date": "2026-10-27"
-        },
-        {
-          "id": "CN4288012",
-          "url_id": "5c59de78-0f67-41f1-b506-3b5d0f9ad049",
-          "title": "Vehicle Maintenance",
-          "agency": "Department of Defence",
-          "supplier": "JAX TYRES & AUTO LIVERPOOL",
-          "value_aud": 24970.0,
-          "published": "2026-11-10",
-          "month": "2026-11",
-          "start_date": "2026-10-22",
-          "end_date": "2027-06-29"
-        },
-        {
-          "id": "CN4288709",
-          "url_id": "30a085fc-b917-42b8-8918-e66390079c7f",
-          "title": "Website services",
-          "agency": "National Anti-Corruption Commission",
-          "supplier": "Oxide Interactive Pty Ltd  t/a Hyperkind",
-          "value_aud": 24962.0,
-          "published": "2026-11-16",
-          "month": "2026-11",
-          "start_date": "2026-11-04",
-          "end_date": "2027-11-03"
-        },
-        {
-          "id": "CN4288015",
-          "url_id": "92b88a03-ec09-4cba-bea9-27f016372849",
-          "title": "Electrical Spare Parts",
-          "agency": "Department of Defence",
-          "supplier": "Aerolight Airports",
-          "value_aud": 24953.5,
-          "published": "2026-11-10",
-          "month": "2026-11",
-          "start_date": "2026-11-03",
-          "end_date": "2026-12-03"
-        },
-        {
-          "id": "CN4286524",
-          "url_id": "0749008d-1e66-4905-8f59-b0734a1338a7",
-          "title": "provision of technical scientific writing and advice",
-          "agency": "Department of Climate Change, Energy, the Environment and Water",
-          "supplier": "FLINDERS UNIVERSITY",
-          "value_aud": 24882.0,
-          "published": "2026-11-03",
-          "month": "2026-11",
-          "start_date": "2026-10-25",
-          "end_date": "2027-02-04"
-        },
-        {
-          "id": "CN4288008",
-          "url_id": "fed36ecc-a6cb-41d3-996f-ed6e865565d3",
-          "title": "Professional Services",
-          "agency": "Department of Defence",
-          "supplier": "FULL STOP AUSTRALIA",
-          "value_aud": 24750.0,
-          "published": "2026-11-10",
-          "month": "2026-11",
-          "start_date": "2026-11-08",
-          "end_date": "2027-06-29"
-        },
-        {
-          "id": "CN4287996",
-          "url_id": "44cc6805-3824-4ebd-9c61-d8474bd2b1ca",
-          "title": "Project Support Services",
-          "agency": "Department of Defence",
-          "supplier": "ECHELON CONSULTANCY AND TRAINING FAMILY TRUST",
-          "value_aud": 24596.0,
-          "published": "2026-11-10",
-          "month": "2026-11",
-          "start_date": "2026-11-03",
-          "end_date": "2026-11-29"
-        },
-        {
-          "id": "CN4288007",
-          "url_id": "0c218d19-6496-41eb-b1d4-50d8c1b6e267",
-          "title": "Vehicle Spare Parts",
-          "agency": "Department of Defence",
-          "supplier": "BAE SYSTEMS AUSTRALIA PTY LTD",
-          "value_aud": 24241.14,
-          "published": "2026-11-10",
-          "month": "2026-11",
-          "start_date": "2026-11-08",
-          "end_date": "2027-04-04"
-        },
-        {
-          "id": "CN4287993",
-          "url_id": "494d50a4-fc29-45b5-b418-5d82cfd51dfd",
-          "title": "Military Spare Parts",
-          "agency": "Department of Defence",
-          "supplier": "CUMMINS SOUTH PACIFIC PTY LTD HEAD OFFICE",
-          "value_aud": 24090.22,
-          "published": "2026-11-10",
-          "month": "2026-11",
-          "start_date": "2026-11-08",
-          "end_date": "2027-06-29"
-        },
-        {
-          "id": "CN4287998",
-          "url_id": "5f2a4895-e822-46d1-b2d7-06b04dbfc975",
-          "title": "Maintenance and Repair Services",
-          "agency": "Department of Defence",
-          "supplier": "R.G.M. MAINTENANCE PTY LTD",
-          "value_aud": 24007.5,
-          "published": "2026-11-10",
-          "month": "2026-11",
-          "start_date": "2026-11-08",
-          "end_date": "2027-01-28"
-        },
-        {
-          "id": "CN4289178",
-          "url_id": "cbec5916-bb85-4ebf-b8c8-1f1a72d7f8f9",
-          "title": "Generators",
-          "agency": "Department of Defence",
-          "supplier": "COATES HIRE OPERATIONS PTY LIMITED",
-          "value_aud": 23901.28,
-          "published": "2026-11-16",
-          "month": "2026-11",
-          "start_date": "2026-10-05",
-          "end_date": "2026-12-30"
-        },
-        {
-          "id": "CN4289139",
-          "url_id": "47e17482-6675-4ee0-ad34-5447df805e40",
-          "title": "Transport Services",
-          "agency": "Department of Defence",
-          "supplier": "ADAGOLD AVIATION PTY LTD",
-          "value_aud": 23650.0,
-          "published": "2026-11-16",
-          "month": "2026-11",
-          "start_date": "2026-11-02",
-          "end_date": "2026-11-03"
-        },
-        {
-          "id": "CN4288004",
-          "url_id": "c12e6199-918a-4820-9313-f5860e4f021f",
-          "title": "Services and Inspections",
-          "agency": "Department of Defence",
-          "supplier": "GRAEME MCLEOD MECHANICAL PTY LTD",
-          "value_aud": 23485.0,
-          "published": "2026-11-10",
-          "month": "2026-11",
-          "start_date": "2026-11-08",
-          "end_date": "2026-11-15"
-        },
-        {
-          "id": "CN4288000",
-          "url_id": "07795f5c-b5d3-4dd8-a74a-2aa9b8b048b0",
-          "title": "Services and Inspections",
-          "agency": "Department of Defence",
-          "supplier": "TOWNSVILLE FLEET SERVICES PTY LTD",
-          "value_aud": 23397.0,
-          "published": "2026-11-10",
-          "month": "2026-11",
-          "start_date": "2026-11-08",
-          "end_date": "2026-12-23"
-        },
-        {
-          "id": "CN4287986",
-          "url_id": "da7bad44-92c4-4e0a-b95f-aec44c458a49",
-          "title": "27ACMA019 \u00a0- Purchase RadComms tickets 2026",
-          "agency": "Australian Communications and Media Authority",
-          "supplier": "Two de Force Pty Ltd",
-          "value_aud": 23100.0,
-          "published": "2026-11-10",
-          "month": "2026-11",
-          "start_date": "2026-09-30",
-          "end_date": "2026-10-29"
-        },
-        {
-          "id": "CN4288014",
-          "url_id": "f4a0ef8f-95ac-4dec-962e-78267ea905ae",
-          "title": "Testing Instruments",
-          "agency": "Department of Defence",
-          "supplier": "C & L SALES AND SERVICES PTY LTD",
-          "value_aud": 22979.88,
-          "published": "2026-11-10",
-          "month": "2026-11",
-          "start_date": "2026-11-01",
-          "end_date": "2026-11-30"
-        },
-        {
-          "id": "CN4288010",
-          "url_id": "f6ea5fe1-4e2d-4613-950d-e39420d4f8b9",
-          "title": "Lubricating Oils",
-          "agency": "Department of Defence",
-          "supplier": "CASTROL AUST PTY LTD",
-          "value_aud": 22804.82,
-          "published": "2026-11-10",
-          "month": "2026-11",
-          "start_date": "2026-11-04",
-          "end_date": "2026-11-19"
-        },
-        {
-          "id": "CN4287285",
-          "url_id": "88372ff3-e710-4336-8d6a-f0943afefaa3",
-          "title": "Samoa Infrastructure Upgrade",
-          "agency": "Bureau of Meteorology",
-          "supplier": "Rasmussen Engineering Ltd",
-          "value_aud": 22801.9,
-          "published": "2026-11-10",
-          "month": "2026-11",
-          "start_date": "2026-09-30",
-          "end_date": "2027-06-29"
-        },
-        {
-          "id": "CN4287972",
-          "url_id": "04416690-e7ca-4efa-80f0-e4a7598b2e02",
-          "title": "IT Hardware Procurement",
-          "agency": "Department of Home Affairs",
-          "supplier": "DATA#3 LIMITED",
-          "value_aud": 22730.63,
-          "published": "2026-11-10",
-          "month": "2026-11",
-          "start_date": "2026-11-04",
-          "end_date": "2028-11-03"
-        },
-        {
-          "id": "CN4286535",
-          "url_id": "c579dfe8-3f6b-4c8d-bfc2-294ce45b6f0f",
-          "title": "Water Valuation Services",
-          "agency": "Department of Climate Change, Energy, the Environment and Water",
-          "supplier": "JONES LANG LASALLE ADVISORY SERVICES PTY LIMITED",
-          "value_aud": 22495.0,
-          "published": "2026-11-03",
-          "month": "2026-11",
-          "start_date": "2026-09-29",
-          "end_date": "2027-09-20"
-        },
-        {
-          "id": "CN4286371",
-          "url_id": "b242b824-371b-4c21-a46c-5ec3da6aa8fa",
-          "title": "Watercraft Spare Parts",
-          "agency": "Department of Defence",
-          "supplier": "Metal Manufactures Pty Limited T/A MM Defence",
-          "value_aud": 22473.0,
-          "published": "2026-11-03",
-          "month": "2026-11",
-          "start_date": "2026-10-19",
-          "end_date": "2026-11-24"
-        },
-        {
-          "id": "CN4286363",
-          "url_id": "451ff6b7-8c70-4f44-a937-8098353a84b2",
-          "title": "Storage Cases",
-          "agency": "Department of Defence",
-          "supplier": "VISIT Brands Pty Ltd",
-          "value_aud": 22440.0,
-          "published": "2026-11-03",
-          "month": "2026-11",
-          "start_date": "2026-10-22",
-          "end_date": "2027-03-10"
-        },
-        {
-          "id": "CN4286368",
-          "url_id": "365bd32f-f37e-48ac-b74f-c52c3949fe1a",
-          "title": "Watercraft Spare Parts",
-          "agency": "Department of Defence",
-          "supplier": "ZF SERVICES AUSTRALIA PTY LTD",
-          "value_aud": 22432.3,
-          "published": "2026-11-03",
-          "month": "2026-11",
-          "start_date": "2026-10-20",
-          "end_date": "2026-12-08"
         }
       ]
     },
